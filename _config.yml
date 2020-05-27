@@ -1,27 +1,29 @@
+# Jekyll configuration
+name: Le blog de la famille Tomate
 title: Le blog de la famille Tomate
 email: bruno@lagrappe.net
-description: >- # this means to ignore newlines until "baseurl:"
-        Site de prises de notes sur la musique, les voyages et d'autres sujets
-        de la famille tomate.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+description: Site de notes sur la musique, les voyages et d'autres sujets de la famille tomate.
+
+timezone: Europe/Paris
+
+# url is currently only used only for the RSS feed in feed.xml
+url: https://www.lagrappe.net
+
+baseurl: "" # the subpath of your site, e.g. /blogdd
 twitter_username: bam_thomas
 github_username:  bamthomas
+github: 'bamthomas/lagrappe'
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+permalink: /:title/
+plugins:
+- jekyll-paginate
+- jekyll-seo-tag
+paginate: 9
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude: ['README.md', 'LICENSE', '*.sh', '.circleci']
+encoding: utf-8
