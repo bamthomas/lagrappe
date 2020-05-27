@@ -1,70 +1,32 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  {% assign description = page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 200  %}
-  {% assign page_title = page.title | default: site.name | remove: '"' %}
-  {% assign author_name = page.author.display_name %}
-  {% assign twitter_id = site.data.authors[author_name].twitter %}
-  <title>{{ page_title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{{ description }}">
-  <!-- Instruct Internet Explorer to use its latest rendering engine -->
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <link rel="dns-prefetch" href="https://ga.dune.io">
-  <link rel="preconnect" href="https://ga.dune.io">
+<header class="site-header" role="banner">
 
-  <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
-  <link href="{{ site.baseurl }}/css/theme.css" rel="stylesheet">
-  <link href="{{ site.baseurl }}/css/syntax.css" rel="stylesheet">
-  <link href="{{ site.baseurl }}/css/fonts.css" rel="stylesheet">
-  <script async src="{{ site.baseurl }}/js/jquery.min.js"></script>
-  <script async src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+  <div class="wrapper">
 
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-  {% if author_name %}
-  <meta property="article:author" content="{{ author_name }}">
-  <meta property="article:section" content="{{ page.categories | first }}">
-  <meta property="article:tags" content="{{ page.tags | join: ',' }}">
-  {% endif %}
-  <meta property="og:image" content="">
-  <meta property="og:image:url" content="">
-  <meta property="og:locale" content="fr_FR">
-  <!-- twitter summary card -->
-  <meta name="twitter:card" content="summary" />
-  {% if twitter_id %}<meta name="twitter:site" content="@{{ twitter_id }}" />{% endif %}
-  <meta name="twitter:title" content="{{ page_title }}" />
-  <meta name="twitter:description" content="{{ description }}" />
-  {% seo title=false %}
-</head>
+    <a class="site-title" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
 
-<body>
+    <nav class="site-nav">
+      <span class="menu-icon">
+        <svg viewBox="0 0 18 15" width="18px" height="15px">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </span>
 
-<div class="container-fluid">
-    <div class="row-fluid">
-        <div class="navbar navbar-inverse navbar-fixed-top" role="navigation" id="navbar">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                  <span class="sr-only">Navigation</span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.name }}</a>
-              </div>
-              <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav">
-                    <!-- <li class="active"><a href="{{ site.baseurl }}/">Home</a></li> -->
-                    <li class="active"><a href="{{ site.baseurl }}/archive/">Archives</a></li>
-                    <li class="active"><a href="{{ site.baseurl }}/about/">A propos</a></li>
-                    <li class="active"><a href="{{ site.baseurl }}/feed">RSS</a></li>
-                    <li class="active"><a href="{{ site.baseurl }}/tags/">Tags</a></li>
-                    <li class="active"><a href="{{ site.baseurl }}/categories/">Catégories</a></li>
-                    {% if site.github != '' %}
-                      <li class="active"><a href="https://github.com/{{ site.github }}">Github</a></li>
-                    {% endif %}
-                </ul>
-              </div>
-        </div>
-    </div>
-</div>
+      <div class="trigger">
+        <!--
+            my_page.autogen is populated by the pagination logic for all pages
+                            that are automatically created by the gem. Check for non-existence to exclude pagination pages from site.pages iterators
+          -->
+          
+        {% for my_page in site.pages %}
+          {% if my_page.title and my_page.autogen == nil %}
+          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </nav>
+
+  </div>
+
+</header>
