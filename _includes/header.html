@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  {% assign description = page.description | default: page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 200  %}
+  {% assign page_title = page.title | default: site.name | remove: '"' %}
+  {% assign author_name = page.author.display_name %}
+  {% assign twitter_id = site.data.authors[author_name].twitter %}
+  <title>{{ page_title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ description }}">
+  <!-- Instruct Internet Explorer to use its latest rendering engine -->
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="dns-prefetch" href="https://ga.dune.io">
+  <link rel="preconnect" href="https://ga.dune.io">
+
+  <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/css/theme.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/css/syntax.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/css/fonts.css" rel="stylesheet">
+  <script async src="{{ site.baseurl }}/js/jquery.min.js"></script>
+  <script async src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  {% if author_name %}
+  <meta property="article:author" content="{{ author_name }}">
+  <meta property="article:section" content="{{ page.categories | first }}">
+  <meta property="article:tags" content="{{ page.tags | join: ',' }}">
+  {% endif %}
+  <meta property="og:image" content="">
+  <meta property="og:image:url" content="">
+  <meta property="og:locale" content="fr_FR">
+  <!-- twitter summary card -->
+  <meta name="twitter:card" content="summary" />
+  {% if twitter_id %}<meta name="twitter:site" content="@{{ twitter_id }}" />{% endif %}
+  <meta name="twitter:title" content="{{ page_title }}" />
+  <meta name="twitter:description" content="{{ description }}" />
+  {% seo title=false %}
+</head>
+
+<body>
+
+<div class="container-fluid">
+    <div class="row-fluid">
+        <div class="navbar navbar-inverse navbar-fixed-top" role="navigation" id="navbar">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                  <span class="sr-only">Navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.name }}</a>
+              </div>
+              <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <!-- <li class="active"><a href="{{ site.baseurl }}/">Home</a></li> -->
+                    <li class="active"><a href="{{ site.baseurl }}/archive/">Archives</a></li>
+                    <li class="active"><a href="{{ site.baseurl }}/about/">A propos</a></li>
+                    <li class="active"><a href="{{ site.baseurl }}/feed">RSS</a></li>
+                    <li class="active"><a href="{{ site.baseurl }}/tags/">Tags</a></li>
+                    <li class="active"><a href="{{ site.baseurl }}/categories/">Catégories</a></li>
+                    {% if site.github != '' %}
+                      <li class="active"><a href="https://github.com/{{ site.github }}">Github</a></li>
+                    {% endif %}
+                </ul>
+              </div>
+        </div>
+    </div>
+</div>
