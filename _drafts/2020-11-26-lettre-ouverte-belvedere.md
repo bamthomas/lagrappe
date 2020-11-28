@@ -11,7 +11,7 @@ categories:
 
 # Trop long; Pas lu
 
-Après avoir reçu, et lu 4 tracts dans ma boite aux lettres, en respectant votre vote, je voulais juste souligner qu'on avait tous [des bugs dans nos cervaux](https://fr.wikipedia.org/wiki/Biais_cognitif), notamment [le biais de confirmation](ihttps://www.universite-paris-saclay.fr/sites/default/files/media/2020-02/biais-de-confirmation-atelier-jip.pdf) qui nous rend plus sensible aux informations qui nous arrangent et qui nous relient à notre groupe social.
+Après avoir reçu, et lu 4 tracts dans ma boite aux lettres, en respectant votre vote, je voulais juste souligner qu'on avait tous [des bugs dans nos cervaux](https://fr.wikipedia.org/wiki/Biais_cognitif), notamment [le biais de confirmation](https://www.universite-paris-saclay.fr/sites/default/files/media/2020-02/biais-de-confirmation-atelier-jip.pdf) qui nous rend plus sensible aux informations qui nous arrangent et qui nous relient à notre groupe social.
 
 Donc je sais que c'est un effort, mais si vous avez lu ces tracts, que vous les avez appréciés, lisez aussi la réponse qui a été faite par le conseil syndical, ainsi que [les rapports d'audit](https://conseil-syndical-belvedere.fr/composition/audit-energetique/) pour vous faire une idée complète.
 
@@ -31,42 +31,51 @@ Pour ceux qui passeraient par là, sans contexte, je m'appelle [Bruno Thomas](ht
 Plutôt timide, je ne suis pas du tout un pillier d'AGs ou du poste de sécurité. J'y participe, mais je n'y ai jamais pris la parole en 14 ans. Alors pourquoi ici ? 
 
 Je crois pour trois raisons : 
-- la culture écologique que je construis par les lectures et les événements auxquels je participe, est assez globale, théorique, avec des personnes qui me ressemblent. Ici c'est local et concret, avec des gens qui pour beaucoup sont au opposés ou au pire indiférents;
+- la culture écologique que je construis par les lectures et les événements auxquels je participe, est assez globale, théorique, avec des personnes qui me ressemblent. Ici c'est local et concret, avec des gens qui pour beaucoup sont soit opposés ou au pire indiférents;
 - les mots dans les boites aux lettres me posent plein de questions qui résonnent avec le problème de la désinformation 
-- lors de notre premier débat sur le sujet, en 2015, il n'y avait pas eu tant de tracts, et la résolution de l'époque n'avait pas été votée (alors que nous votions une étude pour 70€/appart sur l'année). Vu la rumeur accompagnant ces tracts, je pense que celle-ci ne passera pas. Je ne suis pas assez fou pour penser que ça changera quelque chose mais j'aurais au moins dit ce que j'en pensais
+- lors de notre premier débat sur le sujet, en 2015, il n'y avait pas eu tant de tracts, et la résolution de l'époque n'avait pas été votée (alors que nous votions une étude pour 70€/appart sur l'année). Vu la rumeur accompagnant ces tracts, je crains que celle-ci ne passe pas. 
 
-Pour les personnes contre ces rénovations qui passeraient ici, je précise juste que j'écris ce mot de ma propre initiative et rien d'autre (pas de service commandé de qui que ce soit).
+Pour les personnes contre ces rénovations qui passeraient également ici, je précise juste que j'écris ce mot de ma propre initiative et rien d'autre (pas de service commandé de qui que ce soit).
 
 ![tracts](images/lettre_belve/tracts.png)
 
-C'est intéressant de lire ces tracts car ils sont sincères. Des personnes ont pris le temps de les écrire, les sourcer, et argumenter (sauf pour celui en premier plan sur la photo).
+C'est intéressant de lire ces tracts car ils sont sincères. Des personnes ont pris le temps de les écrire, les sourcer, et argumenter (sauf pour celui en premier plan sur la photo). Et ces tracts influenceront probablement des indécis, rassureront ceux qui ne veulent/peuvent pas investir, et auront l'adhésion des proches des auteurs.
 
-Pour résumer, derrière la même injonction "votez contre, ne vous abstenez pas", il y a 3 idées : 
+Pour résumer, derrière la même injonction "votez contre, ne vous abstenez pas", il y a 4 idées : 
 
+- il n'y a pas eu d'appel d'offre (ce qui est illégal)
 - 1,3M€ c'est pharaonique
 - avec le COVID c'est pas le moment de dépenser de l'argent, nous avons le temps
 - l'immeuble n'est pas une passoire thermique
 
+## il n'y a pas eu d'appel d'offre
+
+Pourquoi c'est faux.
+
+Deux entreprises on été mandatées pour faire des appels d'offre. Il s'agit de XXX et YYY. Une douzaine d'entreprises ont été consultées. 
+
+J'invite vraiment les personnes qui relaient cette fausse rumeur à se rapprocher du conseil syndical et à se renseigner. 
+
 ## 1,3M€ c'est pharaonique
 
-L'échelle de la résidence c'est la première chose qui est fascinante. Quand on entend parler en M€ lors des premières AG il y a une sorte de vertige. Un premier contact avec l'économie. La gestion de l'Oikos (la maison) en grand. La conscience de ce rôle actif (ne serait-ce que par le vote) dans la cité du Belvédère, c'est ce qui fait le socle de la politique au sens premier du terme. On retrouve les conservateurs, les progressistes. Et aussi les égos.
+L'échelle de la résidence c'est la première chose qui est fascinante. Quand on entend parler en M€ lors des premières AG il y a une sorte de vertige. Un premier contact avec l'économie. La gestion de l'Oikos (la maison) en grand. La conscience de ce rôle actif (ne serait-ce que par le vote) dans la cité du Belvédère, c'est ce qui fait le socle de la politique au sens premier du terme. On retrouve des conservateurs, des progressistes. Et aussi les égos en recherche de lumière.
 
-Le fait de donner ce chiffre en absolu n'est pas un hasard, il met la personne qui le lit au bord de ce vide. Ce même chiffre divisé par 3 (le nombre d'années des travaux), puis par 391 (le nombre de logements), retranché des aides publiques de 30% ça donne 775€ par an et par logement (en moyenne). C'est à dire 64€ par mois. D'un coup, je ne sais pas pour vous mais la falaise fait plus penser à un trottoir qu'aux gorges du Verdon.
+Le fait de donner ce chiffre en absolu n'est pas un hasard, il met la personne qui le lit au bord de ce vide. Ce même chiffre divisé par 3 (le nombre d'années des travaux), puis par 391 (le nombre de logements), retranché des aides publiques de 30% ça donne 775€ par an et par logement (en moyenne). C'est à dire 64€ par mois. D'un coup, la falaise fait plus penser à un trottoir qu'aux gorges du Verdon.
 
 ![Verdon](https://images.unsplash.com/photo-1567889929639-ddef66218960?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80)
 <br><span><a href="https://unsplash.com/@bernardhermant?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Bernard Hermant</a> on <a href="https://unsplash.com/s/photos/verdon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
- 
+
 ## Avec le COVID c'est pas le moment
 
-C'est ma plus grande source de questionnement : quand est-ce que ce sera le moment ? Pourquoi ce n'est pas le moment ? Comment saura-t-on quand c'est le moment ? Qui dit quand ? 
+Alors quand est-ce que ce sera le moment ? Pourquoi ce n'est pas le moment ? Comment saura-t-on quand c'est le moment ? Qui dit quand ? 
 
 Je me souviens il y a quelques années nous devions voter depuis 3 ans des travaux de mise aux normes de sécurité (repoussés à chaque AG), tant et si bien que la préfecture menaçait de faire évacuer tout batiment B (Immeuble de Grande Hauteur), si nous ne votions pas la résolution. Il y eut encore 30 à 40% des personnes qui votèrent contre. A cette époque, aucune pandémie, la croissance était plutôt bonne. 
  
 ![covid & changement climatique](https://pbs.twimg.com/media/EU_ZRGHU8AAGNZL?format=jpg&name=small)
 
-Par ailleurs, quand on sait que le COVID a d'une certaine manière des [sources environnementales](), et que la crise du COVID c'est de la gnognote comparé au réchauffement climatique, c'est un peu comme dire 
+Par ailleurs, quand on considère que le COVID est d'un certaine manière [révélateur de la pression humaine sur le vivant](https://youtu.be/x2vaYVcS-sM&t=165), et que la crise du COVID c'est de la gnognote comparé au réchauffement climatique, c'est un peu comme dire 
 
-> c'est vraiment pas le moment de lutter pour la planete avec les crises climatiques qui arrivent!
+> c'est vraiment pas le moment de lutter pour la planete avec les crises environnementales qui arrivent!
 
 Un des documents rappelle même l'objectif de la COP21 à savoir, l'équilibre carbone, c'est pour 2050. WTF. Donc d'ici là on continue d'éteindre la veilleuse de son écran plat, manger bio, utiliser un verre à dent plutôt que laisser couler l'eau, éteindre les lumières, mettre les déchets dans les poubelles jaune, vert, grise et marron, et voter écolo. Pour les trucs importants, on se retrouve en 2049. 
 
@@ -74,7 +83,7 @@ Vraiment, on n'est pas capable dans une résidence en plein Paris, avec des char
 
 Alors on fait comment ? 
 
-Mais qu'est-ce, mais qu'est-ce qu'on attend ? Que les gens de bonne volonté qui passent des centaines d'heures de bénévolat pour faire des petits pas dans le bon sens soient dégoutés et qu'ils s'en aillent ? Qu'ils soient suivis par les personnes les plus mobiles et audacieuses ? Que les derniers avec du pouvoir d'achat, amers de voir leur résidence perdre en attractivité s'en aillent à leur tour ? Qu'il ne reste que les personnes qui ne veulent plus rien faire ? Et alors quoi, qu'est-ce que ces personnes auront gagné au final ? 
+Mais qu'est-ce, mais qu'est-ce qu'on attend ? Que les gens de bonne volonté qui passent des centaines d'heures de bénévolat pour faire des petits pas dans le bon sens soient dégoutés et qu'ils s'en aillent ? Qu'ils soient suivis par les personnes les plus mobiles et audacieuses ? Que les derniers avec du pouvoir d'achat, amers de voir leur résidence perdre en attractivité s'en aillent à leur tour ? Qu'il ne reste que les personnes qui ne veulent plus rien faire ? 
 
 Qu'est-ce qu'on dit à nos enfants, nos petits-enfants quand ils nous demandent ce qu'on fait pour que leur vie ne soit pas trop compliquée ?
 
@@ -82,22 +91,22 @@ Qu'est-ce qu'on dit à nos enfants, nos petits-enfants quand ils nous demandent 
 
 Un des tracts expose que la loi Energie-Climat établi un plafond à 330kWh/m2 alors que notre consommation énergétique serait inférieure à ce seuil. J'ai vu que la réponse du conseil syndical a parlé de cet aspect, vous pouvez le relire. Ces plafonds concernent [4,8 millions de "passoires thermiques"](https://www.lemonde.fr/economie/article/2020/09/02/pres-de-cinq-millions-de-passoires-thermiques-en-france_6050633_3234.html) qui sont F ou G sur l’échelle du diagnostic de performance énergétique (DPE). Nous sommes en **catégorie E** juste avant ces passoires. 
 
-Rien de grave si nous étions dans un petit pavillon de 4 personnes, mais vu la taille de notre résidence, ce n'est pas un luxe que d'améliorer cette situation. 
+Rien d'important si nous étions dans un petit pavillon de 4 personnes, mais vu la taille de notre résidence, ce n'est pas un luxe que d'améliorer cette situation. Par ailleurs si on le fait tôt on donne l'exemple, on permet à d'autres de bénéficier de notre expérience, on fait avancer le chantier global de la rénovation thermique des grands ensembles immobiliers. 
 
 ## Le risque du status quo
 
 <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Il faudrait dans chaque organisation identifier qui sont les &quot;énarques&quot;, pour résumer ceux qui ne produisent rien mais ont des avis pour bloquer les initiatives de ceux qui tentent d&#39;avancer. ça permettrait de se construire un indicateur de risque...</p>&mdash; Vincent Heuschling (@vhe74) <a href="https://twitter.com/vhe74/status/1331895675169157121?ref_src=twsrc%5Etfw">November 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Mais s'il fallait ne retenir qu'une chose de ces tracts demandant de voter contre c'est l'absence d'alternative. OK on ne veut pas dépenser, c'est pas le moment, etc. Mais au final qu'est-ce qu'on fait ? Quelles sont les alternatives ?
+Mais s'il fallait ne retenir qu'une chose de ces tracts demandant de voter contre c'est l'absence d'alternative. OK on ne veut pas dépenser, c'est pas le moment, etc. Mais au final quelles sont les alternatives ? Je n'en ai vu aucune si ce n'est d'attendre.
 
-Il y a un risque à ne rien faire : ne pas participer à l'amélioration du climat, prendre du retard dans les rénovations des habitats, passer à côté des opportunités de financement de nos travaux, dévaluer notre patrimoine immobilier, avoir des conditions de vie dégradées, ne pas être fier de notre cadre de vie.
+Or il y a aussi un risque à ne rien faire : ne pas participer à l'amélioration du climat, prendre du retard dans les rénovations des habitats, passer à côté des opportunités de financement de nos travaux, dévaluer notre patrimoine immobilier, avoir des conditions de vie dégradées, ne pas être fier de notre cadre de vie. 
 
 ## L'asymétrie de la désinformation 
 
 ![equilibre](https://unsplash.com/photos/DwqAVvG3iFU/download?force=true&w=640)
 <br><span>Photo by <a href="https://unsplash.com/@fcarysnyder?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">F Cary Snyder</a> on <a href="https://unsplash.com/s/photos/balance?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-Il y a deux semaines est sorti un "documentaire" dont je ne dirai pas le nom, financé par crowdfounding, gloubiboulga de [rumeurs](https://www.lemonde.fr/les-decodeurs/article/2020/11/12/covid-19-les-contre-verites-de-hold-up-le-documentaire-a-succes-qui-pretend-devoiler-la-face-cachee-de-l-epidemie_6059526_4355770.html) et [théorie du complot](https://www.liberation.fr/france/2020/11/12/dix-contre-verites-vehiculees-par-hold-up_1805434). Cette vidéo a déjà atteint 1,5M de vues sur youtube. En deux semaines. Il a demandé des heures et des heures à des rédactions de journaux du monde entier pour ["debunker"](https://fr.wikipedia.org/wiki/Debunker) toutes les contre-vérités qu'il expose. Il aura de manière indélébile marqué les esprits de millions de personnes. Il persistera, même si dans quelques années il sera probablement considéré comme un artéfact chelou de l'époque trouble que nous vivons. 
+Il y a deux semaines est sorti un "documentaire", financé par crowdfounding. C'est un gloubiboulga de [rumeurs](https://www.lemonde.fr/les-decodeurs/article/2020/11/12/covid-19-les-contre-verites-de-hold-up-le-documentaire-a-succes-qui-pretend-devoiler-la-face-cachee-de-l-epidemie_6059526_4355770.html) et [théorie du complot](https://www.liberation.fr/france/2020/11/12/dix-contre-verites-vehiculees-par-hold-up_1805434). Cette vidéo a déjà atteint 1,5M de vues sur youtube. En deux semaines. Il a demandé des heures et des heures à des rédactions de journaux du monde entier pour ["debunker"](https://fr.wikipedia.org/wiki/Debunker) toutes les contre-vérités qu'il expose. Il aura de manière indélébile marqué les esprits de millions de personnes. Il persistera, même si dans quelques années il sera probablement considéré comme un artéfact chelou de l'époque trouble que nous vivons. 
 
 [Des pré-révolutionnaires](https://www.franceculture.fr/emissions/mecaniques-du-complotisme-saison-9-les-protocoles-des-sages-de-sion-le-complot-centenaire-1/3-les-faussaires-du-tsar) Russes divers ont plagié plusieurs romans et essais du XIXe siècle en composant un texte idéologique et bancal, "le protocole des sages de sion". [Il a nourri une doctrine](https://www.franceculture.fr/emissions/mecaniques-du-complotisme-saison-9-les-protocoles-des-sages-de-sion-le-complot-centenaire-2/3-un-passeport-pour-le-genocide) ayant eu pour conséquence une guerre mondiale qui a fait 60 millions de victimes. Il est toujours lu et alimente encore les partis d'extrême-droite notamment [au moyen orient](https://www.franceculture.fr/emissions/mecaniques-du-complotisme-saison-9-les-protocoles-des-sages-de-sion-le-complot-centenaire-3/3-du-peril-juif-au-complot-sioniste). Des milliers de personnes, universitaires, écrivains, journalistes ont démonté cet ouvrage. En vain. C'est publié, le résultat a pris son autonomie, il a échapé aux auteurs, et continuera de faire des ravages.
 
