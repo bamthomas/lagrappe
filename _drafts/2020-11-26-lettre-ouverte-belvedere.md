@@ -98,6 +98,8 @@ Un des tracts expose que la loi Énergie-Climat établit un plafond à 330kWh/m2
 
 Rien d'important si nous étions dans un petit pavillon de 4 personnes, mais vu la taille de notre résidence, ce n'est pas un luxe que d'améliorer cette situation. Par ailleurs si on le fait tôt on donne l'exemple, on permet à d'autres de bénéficier de notre expérience, on fait avancer le chantier global de la rénovation thermique des grands ensembles immobiliers.
 
+Les travaux permettraient un gain énergétique de plus de 40%. Sachant que nous avons des émissions des Gaz à Effet de Serre de 1 562 392 t éqCO2 (source [2015-11-19-Additif-pour-APC.pdf](https://conseil-syndical-belvedere.fr/wp-content/uploads/2019/02/2015-11-19-Additif-pour-APC.pdf)) cela ferait **624 956 t éqCO2**. Un A/R Paris/New York c'est [une tonne éqCO2](https://eco-calculateur.dta.aviation-civile.gouv.fr/). Ca reviendrait à économiser 1598 voyages pour New York par appartement et par an.
+
 ## Le risque du statu quo
 
 <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Il faudrait dans chaque organisation identifier qui sont les &quot;énarques&quot;, pour résumer ceux qui ne produisent rien mais ont des avis pour bloquer les initiatives de ceux qui tentent d&#39;avancer. ça permettrait de se construire un indicateur de risque...</p>&mdash; Vincent Heuschling (@vhe74) <a href="https://twitter.com/vhe74/status/1331895675169157121?ref_src=twsrc%5Etfw">November 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
