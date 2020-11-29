@@ -11,29 +11,29 @@ categories:
 
 # Trop long; Pas lu
 
-Après avoir reçu, et lu 4 tracts dans ma boite aux lettres, en respectant votre vote, je voulais juste souligner qu'on avait tous [des bugs dans nos cervaux](https://fr.wikipedia.org/wiki/Biais_cognitif), notamment [le biais de confirmation](https://www.universite-paris-saclay.fr/sites/default/files/media/2020-02/biais-de-confirmation-atelier-jip.pdf) qui nous rend plus sensible aux informations qui nous arrangent et qui nous relient à notre groupe social.
+Après avoir reçu, et lu 4 tracts dans ma boite aux lettres, en respectant votre vote, je voulais juste souligner qu'on avait tous [des bugs dans nos cerveaux](https://fr.wikipedia.org/wiki/Biais_cognitif), notamment [le biais de confirmation](https://www.universite-paris-saclay.fr/sites/default/files/media/2020-02/biais-de-confirmation-atelier-jip.pdf) qui nous rend plus sensible aux informations qui nous arrangent et qui nous relient à notre groupe social.
 
 Donc je sais que c'est un effort, mais si vous avez lu ces tracts, que vous les avez appréciés, lisez aussi la réponse qui a été faite par le conseil syndical, ainsi que [les rapports d'audit](https://conseil-syndical-belvedere.fr/composition/audit-energetique/) pour vous faire une idée complète.
 
 ![nature](https://unsplash.com/photos/-h8I1g9GrR8/download?force=true&w=640)
 <br><span>Photo by <a href="https://unsplash.com/@drscythe?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Dominik Scythe</a> on <a href="https://unsplash.com/@drscythe?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-D'où je parle ? J'habite dans la résidence depuis 14 ans et je suis touché par les enjeux planétaires auxquels nous faisons face, pour la première fois dans l'histoire de l'humanité. L'environnement (pour ne pas dire la "*nature*" terme connoté dans cette opposition nature/culture qui nous vient des "lumières") a cela de beau, qu'il est à la fois fragile (cf [les extinctions animales](https://www.notre-planete.info/environnement/biodiversite/extinctions_massives.php) de ces 50 dernières années) et extrêmement résilient : même si l'homme disparait dans un feu de joie planétaire, ou dans un conflit nucléaire, la planete continuera d'exister sans nous, sans aucun doute (voire mieux ?). 
+D'où je parle ? J'habite dans la résidence depuis 14 ans et je suis touché par les enjeux planétaires auxquels nous faisons face, pour la première fois dans l'histoire de l'humanité. L'environnement (pour ne pas dire la "*nature*" terme connoté dans cette opposition nature/culture qui nous vient des "lumières") a cela de beau, qu'il est à la fois fragile (cf [les extinctions animales](https://www.notre-planete.info/environnement/biodiversite/extinctions_massives.php) de ces 50 dernières années) et extrêmement résilient : même si l'homme disparaît dans un feu de joie planétaire, ou dans un conflit nucléaire, la planète continuera d'exister sans nous, sans aucun doute (voire mieux ?).
 
 Les décisions qu'on prend dans cette prochaine Assemblée Générale à distance sont plus impactantes que tous les gestes de colibri qu'on fait pour la plupart tous les jours (même si vous avez acheté une voiture électrique, ou refait vos fenêtres). Donc ça vaut le coup de voter en ayant *toutes* les informations, même celles qui peuvent déplaire.
 
 # Version longue
 
-Une des conséquences inatendues du COVID c'est que notre AG de copro n'aura pas lieu en présentiel, alors que fait rage un nouveau débat sur la rénovation thermique de notre résidence. Conséquence : 4 tracts dans nos boite aux lettres nous demandent de voter contre.
+Une des conséquences inattendues du COVID c'est que notre AG de copro n'aura pas lieu en présentiel, alors que fait rage un nouveau débat sur la rénovation thermique de notre résidence. Conséquence : 4 tracts dans nos boite aux lettres nous demandent de voter contre.
 
 Pour ceux qui passeraient par là, sans contexte, je m'appelle [Bruno Thomas](https://twitter.com/bam_thomas) j'habite dans le 19e arrondissement de Paris depuis 14 ans, dans une grande résidence de 391 logements. Notre consommation en 2015 était de l'ordre de 6388 MWh. Je m'intéresse à l'écologie depuis 5 ans, date à laquelle je commençais [un projet](https://iroco.co) d'écoconception informatique.
 
-Plutôt timide, je ne suis pas du tout un pillier d'AGs ou du poste de sécurité. J'y participe, mais je n'y ai jamais pris la parole en 14 ans. Alors pourquoi ici ? 
+Plutôt timide, je ne suis pas du tout un pilier d'AGs ou du poste de sécurité. J'y participe, mais je n'y ai jamais pris la parole en 14 ans. Alors pourquoi ici ?
 
-Je crois pour trois raisons : 
-- la culture écologique que je construis par les lectures et les événements auxquels je participe, est assez globale, théorique, avec des personnes qui me ressemblent. Ici c'est local et concret, avec des gens qui pour beaucoup sont soit opposés ou au pire indiférents;
-- les mots dans les boites aux lettres me posent plein de questions qui résonnent avec le problème de la désinformation 
-- lors de notre premier débat sur le sujet, en 2015, il n'y avait pas eu tant de tracts, et la résolution de l'époque n'avait pas été votée (alors que nous votions une étude pour 70€/appart sur l'année). Vu la rumeur accompagnant ces tracts, je crains que celle-ci ne passe pas. 
+Je crois pour trois raisons :
+- la culture écologique que je construis par les lectures et les événements auxquels je participe, est assez globale, théorique, avec des personnes qui me ressemblent. Ici c'est local et concret, avec des gens qui pour beaucoup sont soit opposés ou au pire indifférents;
+- les mots dans les boites aux lettres me posent plein de questions qui résonnent avec le problème de la désinformation
+- lors de notre premier débat sur le sujet, en 2015, il n'y avait pas eu tant de tracts, et la résolution de l'époque n'avait pas été votée (alors que nous votions une étude pour 70€/appart sur l'année). Vu la rumeur accompagnant ces tracts, je crains que celle-ci ne passe pas.
 
 Pour les personnes contre ces rénovations qui passeraient également ici, je précise juste que j'écris ce mot de ma propre initiative et rien d'autre (pas de service commandé de qui que ce soit).
 
@@ -41,7 +41,7 @@ Pour les personnes contre ces rénovations qui passeraient également ici, je pr
 
 C'est intéressant de lire ces tracts car ils sont sincères. Des personnes ont pris le temps de les écrire, les sourcer, et argumenter (sauf pour celui en premier plan sur la photo). Et ces tracts influenceront probablement des indécis, rassureront ceux qui ne veulent/peuvent pas investir, et auront l'adhésion des proches des auteurs.
 
-Pour résumer, derrière la même injonction "votez contre, ne vous abstenez pas", il y a 4 idées : 
+Pour résumer, derrière la même injonction "votez contre, ne vous abstenez pas", il y a 4 idées :
 
 - il n'y a pas eu d'appel d'offre (ce qui est illégal)
 - 1,3M€ c'est pharaonique
@@ -52,9 +52,19 @@ Pour résumer, derrière la même injonction "votez contre, ne vous abstenez pas
 
 Pourquoi c'est faux.
 
-Deux entreprises on été mandatées pour faire des appels d'offre. Il s'agit de XXX et YYY. Une douzaine d'entreprises ont été consultées. 
+Deux entreprises on été mandatées pour faire des appels d'offre. Il s'agit de [Ceteam](http://www.ceteam.eu/) et [LCO](http://www.lco-ing.fr/). Une douzaine d'entreprises ont été consultées.
 
-J'invite vraiment les personnes qui relaient cette fausse rumeur à se rapprocher du conseil syndical et à se renseigner. 
+L'analyse des offres a été faite le 24 juin (avec les entreprises, une personne de Ceteam , Léa et Martine), avec un rapport final du 8 juillet 2020 par Ceteam (missionné à l’AG 2019) pour les vitrages des parties communes (lauréat final Negro) et les toits-terrasses (lauréat final Etandex).
+
+Une autre analyse des offres a été faite le 3 septembre 2020 pour la CTA (ventilation) piscine. Pas de réunion finale « en présentiel » (la personne de LCO avait le COVID).
+
+D’autres travaux ne font pas l’objet d’appel d’offres (ce que des membres du conseil ont regretté mais qui est légal) : DT, qui a un contrat de maintenance ventilation, a présenté un projet pour la VMC logements.
+
+Le rapport de la commission finale pour la subvention des travaux accorde une aide. Jamais une commission publique validerait un projet dans l'illégalité.
+
+![commission finale](images/lettre_belve/lettre_mairie_paris.jpg)
+
+J'invite les personnes qui relaient cette rumeur à se rapprocher du conseil syndical et à se renseigner, les documents sont disponibles.
 
 ## 1,3M€ c'est pharaonique
 
@@ -67,50 +77,49 @@ Le fait de donner ce chiffre en absolu n'est pas un hasard, il met la personne q
 
 ## Avec le COVID c'est pas le moment
 
-Alors quand est-ce que ce sera le moment ? Pourquoi ce n'est pas le moment ? Comment saura-t-on quand c'est le moment ? Qui dit quand ? 
+Alors quand est-ce que ce sera le moment ? Pourquoi ce n'est pas le moment ? Comment saura-t-on quand c'est le moment ? Qui dit quand ?
 
-Je me souviens il y a quelques années nous devions voter depuis 3 ans des travaux de mise aux normes de sécurité (repoussés à chaque AG), tant et si bien que la préfecture menaçait de faire évacuer tout batiment B (Immeuble de Grande Hauteur), si nous ne votions pas la résolution. Il y eut encore 30 à 40% des personnes qui votèrent contre. A cette époque, aucune pandémie, la croissance était plutôt bonne. 
- 
+Je me souviens il y a quelques années nous devions voter depuis 3 ans des travaux de mise aux normes de sécurité (repoussés à chaque AG), tant et si bien que la préfecture menaçait de faire évacuer tout bâtiment B (Immeuble de Grande Hauteur), si nous ne votions pas la résolution. Il y eut encore 30 à 40% des personnes qui votèrent contre. A cette époque, aucune pandémie, la croissance était plutôt bonne.
+
 ![covid & changement climatique](https://pbs.twimg.com/media/EU_ZRGHU8AAGNZL?format=jpg&name=small)
 
-Par ailleurs, quand on considère que le COVID est d'un certaine manière [révélateur de la pression humaine sur le vivant](https://youtu.be/x2vaYVcS-sM&t=165), et que la crise du COVID c'est de la gnognote comparé au réchauffement climatique, c'est un peu comme dire 
+Par ailleurs, quand on considère que le COVID est d'un certaine manière [révélateur de la pression humaine sur le vivant](https://youtu.be/x2vaYVcS-sM&t=165), et que la crise du COVID c'est de la gnognote comparé au réchauffement climatique, c'est un peu comme dire
 
-> c'est vraiment pas le moment de lutter pour la planete avec les crises environnementales qui arrivent!
+> c'est vraiment pas le moment de lutter pour la planète avec les crises environnementales qui arrivent!
 
-Un des documents rappelle même l'objectif de la COP21 à savoir, l'équilibre carbone, c'est pour 2050. WTF. Donc d'ici là on continue d'éteindre la veilleuse de son écran plat, manger bio, utiliser un verre à dent plutôt que laisser couler l'eau, éteindre les lumières, mettre les déchets dans les poubelles jaune, vert, grise et marron, et voter écolo. Pour les trucs importants, on se retrouve en 2049. 
+Un des documents rappelle même l'objectif de la COP21 à savoir, l'équilibre carbone, c'est pour 2050. WTF. Donc d'ici là on continue d'éteindre la veilleuse de son écran plat, manger bio, utiliser un verre à dent plutôt que laisser couler l'eau, éteindre les lumières, mettre les déchets dans les poubelles jaune, vert, grise et marron, et voter écolo. Pour les trucs importants, on se retrouve en 2049.
 
-Vraiment, on n'est pas capable dans une résidence en plein Paris, avec des charges à 400€/mois de dégager 64€/mois pour 3 ans afin de prendre sa part dans un mouvement citoyen mondial qui n'est jamais arrivé dans l'histoire de l'humanité ? A savoir que pour la première fois, les humains se cognent aux limites physiques de notre écosystème ? 
+Vraiment, on n'est pas capable de prendre notre part dans un mouvement citoyen mondial qui n'est jamais arrivé dans l'histoire de l'humanité ? A savoir que pour la première fois, les humains se cognent aux limites physiques de notre écosystème ?
 
-Alors on fait comment ? 
+Alors on fait comment ?
 
-Mais qu'est-ce, mais qu'est-ce qu'on attend ? Que les gens de bonne volonté qui passent des centaines d'heures de bénévolat pour faire des petits pas dans le bon sens soient dégoutés et qu'ils s'en aillent ? Qu'ils soient suivis par les personnes les plus mobiles et audacieuses ? Que les derniers avec du pouvoir d'achat, amers de voir leur résidence perdre en attractivité s'en aillent à leur tour ? Qu'il ne reste que les personnes qui ne veulent plus rien faire ? 
+Mais qu'est-ce, mais qu'est-ce qu'on attend ? Que les gens de bonne volonté qui passent des centaines d'heures de bénévolat pour faire des petits pas dans le bon sens soient dégoûtés et qu'ils s'en aillent ? Qu'ils soient suivis par les personnes les plus mobiles et audacieuses ? Que les derniers avec du pouvoir d'achat, amers de voir leur résidence perdre en attractivité s'en aillent à leur tour ? Qu'il ne reste que les personnes qui ne veulent plus rien faire ?
 
 Qu'est-ce qu'on dit à nos enfants, nos petits-enfants quand ils nous demandent ce qu'on fait pour que leur vie ne soit pas trop compliquée ?
 
 ## L'immeuble n'est pas une passoire thermique
 
-Un des tracts expose que la loi Energie-Climat établi un plafond à 330kWh/m2 alors que notre consommation énergétique serait inférieure à ce seuil. J'ai vu que la réponse du conseil syndical a parlé de cet aspect, vous pouvez le relire. Ces plafonds concernent [4,8 millions de "passoires thermiques"](https://www.lemonde.fr/economie/article/2020/09/02/pres-de-cinq-millions-de-passoires-thermiques-en-france_6050633_3234.html) qui sont F ou G sur l’échelle du diagnostic de performance énergétique (DPE). Nous sommes en **catégorie E** juste avant ces passoires. 
+Un des tracts expose que la loi Énergie-Climat établi un plafond à 330kWh/m2 alors que notre consommation énergétique serait inférieure à ce seuil. J'ai vu que la réponse du conseil syndical a parlé de cet aspect, vous pouvez le relire. Ces plafonds concernent [4,8 millions de "passoires thermiques"](https://www.lemonde.fr/economie/article/2020/09/02/pres-de-cinq-millions-de-passoires-thermiques-en-france_6050633_3234.html) qui sont F ou G sur l’échelle du diagnostic de performance énergétique (DPE). Nous sommes en **catégorie E** juste avant ces passoires.
 
-Rien d'important si nous étions dans un petit pavillon de 4 personnes, mais vu la taille de notre résidence, ce n'est pas un luxe que d'améliorer cette situation. Par ailleurs si on le fait tôt on donne l'exemple, on permet à d'autres de bénéficier de notre expérience, on fait avancer le chantier global de la rénovation thermique des grands ensembles immobiliers. 
+Rien d'important si nous étions dans un petit pavillon de 4 personnes, mais vu la taille de notre résidence, ce n'est pas un luxe que d'améliorer cette situation. Par ailleurs si on le fait tôt on donne l'exemple, on permet à d'autres de bénéficier de notre expérience, on fait avancer le chantier global de la rénovation thermique des grands ensembles immobiliers.
 
-## Le risque du status quo
+## Le risque du statu quo
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Il faudrait dans chaque organisation identifier qui sont les &quot;énarques&quot;, pour résumer ceux qui ne produisent rien mais ont des avis pour bloquer les initiatives de ceux qui tentent d&#39;avancer. ça permettrait de se construire un indicateur de risque...</p>&mdash; Vincent Heuschling (@vhe74) <a href="https://twitter.com/vhe74/status/1331895675169157121?ref_src=twsrc%5Etfw">November 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Il faudrait dans chaque organisation identifier qui sont les &quot;énarques&quot;, pour résumer ceux qui ne produisent rien mais ont des avis pour bloquer les initiatives de ceux qui tentent d&#39;avancer. ça permettrait de se construire un indicateur de risque...</p>&mdash; Vincent Heuschling (@vhe74) <a href="https://twitter.com/vhe74/status/1331895675169157121?ref_src=twsrc%5Etfw">November 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Mais s'il fallait ne retenir qu'une chose de ces tracts demandant de voter contre c'est l'absence d'alternative. OK on ne veut pas dépenser, c'est pas le moment, etc. Mais au final quelles sont les alternatives ? Je n'en ai vu aucune si ce n'est d'attendre.
 
-Or il y a aussi un risque à ne rien faire : ne pas participer à l'amélioration du climat, prendre du retard dans les rénovations des habitats, passer à côté des opportunités de financement de nos travaux, dévaluer notre patrimoine immobilier, avoir des conditions de vie dégradées, ne pas être fier de notre cadre de vie. 
+Or il y a aussi un risque à ne rien faire : ne pas participer à l'amélioration du climat, prendre du retard dans les rénovations des habitats, passer à côté des opportunités de financement de nos travaux, dévaluer notre patrimoine immobilier, avoir des conditions de vie dégradées, ne pas être fier de notre cadre de vie.
 
-## L'asymétrie de la désinformation 
+## L'asymétrie de la désinformation
 
 ![equilibre](https://unsplash.com/photos/DwqAVvG3iFU/download?force=true&w=640)
 <br><span>Photo by <a href="https://unsplash.com/@fcarysnyder?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">F Cary Snyder</a> on <a href="https://unsplash.com/s/photos/balance?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
-Il y a deux semaines est sorti un "documentaire", financé par crowdfounding. C'est un gloubiboulga de [rumeurs](https://www.lemonde.fr/les-decodeurs/article/2020/11/12/covid-19-les-contre-verites-de-hold-up-le-documentaire-a-succes-qui-pretend-devoiler-la-face-cachee-de-l-epidemie_6059526_4355770.html) et [théorie du complot](https://www.liberation.fr/france/2020/11/12/dix-contre-verites-vehiculees-par-hold-up_1805434). Cette vidéo a déjà atteint 1,5M de vues sur youtube. En deux semaines. Il a demandé des heures et des heures à des rédactions de journaux du monde entier pour ["debunker"](https://fr.wikipedia.org/wiki/Debunker) toutes les contre-vérités qu'il expose. Il aura de manière indélébile marqué les esprits de millions de personnes. Il persistera, même si dans quelques années il sera probablement considéré comme un artéfact chelou de l'époque trouble que nous vivons. 
+Il y a deux semaines est sorti un "documentaire", financé par crowdfounding. C'est un gloubiboulga de [rumeurs](https://www.lemonde.fr/les-decodeurs/article/2020/11/12/covid-19-les-contre-verites-de-hold-up-le-documentaire-a-succes-qui-pretend-devoiler-la-face-cachee-de-l-epidemie_6059526_4355770.html) et [théorie du complot](https://www.liberation.fr/france/2020/11/12/dix-contre-verites-vehiculees-par-hold-up_1805434). Cette vidéo a déjà atteint 1,5M de vues sur youtube. En deux semaines. Il a demandé des heures et des heures à des rédactions de journaux du monde entier pour ["debunker"](https://fr.wikipedia.org/wiki/Debunker) toutes les contre-vérités qu'il expose. Il aura de manière indélébile marqué les esprits de millions de personnes. Il persistera, même si dans quelques années il sera probablement considéré comme un artefact chelou de l'époque trouble que nous vivons.
 
-[Des pré-révolutionnaires](https://www.franceculture.fr/emissions/mecaniques-du-complotisme-saison-9-les-protocoles-des-sages-de-sion-le-complot-centenaire-1/3-les-faussaires-du-tsar) Russes divers ont plagié plusieurs romans et essais du XIXe siècle en composant un texte idéologique et bancal, "le protocole des sages de sion". [Il a nourri une doctrine](https://www.franceculture.fr/emissions/mecaniques-du-complotisme-saison-9-les-protocoles-des-sages-de-sion-le-complot-centenaire-2/3-un-passeport-pour-le-genocide) ayant eu pour conséquence une guerre mondiale qui a fait 60 millions de victimes. Il est toujours lu et alimente encore les partis d'extrême-droite notamment [au moyen orient](https://www.franceculture.fr/emissions/mecaniques-du-complotisme-saison-9-les-protocoles-des-sages-de-sion-le-complot-centenaire-3/3-du-peril-juif-au-complot-sioniste). Des milliers de personnes, universitaires, écrivains, journalistes ont démonté cet ouvrage. En vain. C'est publié, le résultat a pris son autonomie, il a échapé aux auteurs, et continuera de faire des ravages.
+[Des pré-révolutionnaires](https://www.franceculture.fr/emissions/mecaniques-du-complotisme-saison-9-les-protocoles-des-sages-de-sion-le-complot-centenaire-1/3-les-faussaires-du-tsar) Russes divers ont plagié plusieurs romans et essais du XIXe siècle en composant un texte idéologique et bancal, "le protocole des sages de sion". [Il a nourri une doctrine](https://www.franceculture.fr/emissions/mecaniques-du-complotisme-saison-9-les-protocoles-des-sages-de-sion-le-complot-centenaire-2/3-un-passeport-pour-le-genocide) ayant eu pour conséquence une guerre mondiale qui a fait 60 millions de victimes. Il est toujours lu et alimente encore les partis d'extrême-droite notamment [au moyen orient](https://www.franceculture.fr/emissions/mecaniques-du-complotisme-saison-9-les-protocoles-des-sages-de-sion-le-complot-centenaire-3/3-du-peril-juif-au-complot-sioniste). Des milliers de personnes, universitaires, écrivains, journalistes ont démonté cet ouvrage. En vain. C'est publié, le résultat a pris son autonomie, il a échappé aux auteurs, et continuera de faire des ravages.
 
-La simplicité de la rumeur et l'attrait de la désinformation sont beaucoup plus véloces que les faits scientifiques, les explications détaillées et les actions concrètes de terrain. Ces tracts, à notre petite échelle en sont l'image. Je l'entends autour de moi cette rumeur qui circule, les allusions au gré des discussions, les personnes qui m'interpellent pour voter contre dans les ascenseurs. Bizarement, personne ne m'a approché pour me dire de surtout voter pour. C'est un hold-up informationel.
+La simplicité de la rumeur et l'attrait de la désinformation sont beaucoup plus véloces que les faits scientifiques, les explications détaillées et les actions concrètes de terrain. Ces tracts, à notre petite échelle en sont l'image. Je l'entends autour de moi cette rumeur qui circule, les allusions au gré des discussions, les personnes qui m'interpellent pour voter contre dans les ascenseurs. Bizarrement, personne ne m'a approché pour me dire de surtout voter pour. C'est un hold-up informationnel.
 
 Malgré tout, je suis résolument optimiste, car je sais aussi que la plupart des personnes "de la majorité silencieuse", n'en disent rien, mais n'en pensent pas moins. J'espère que, comme aux états-unis récemment, c'est eux qui l'emporteront.
-
