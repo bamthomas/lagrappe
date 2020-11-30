@@ -78,7 +78,7 @@ Je me souviens il y a quelques années nous devions voter depuis 3 ans des trava
 
 ![covid & changement climatique](https://pbs.twimg.com/media/EU_ZRGHU8AAGNZL?format=jpg&name=small)
 
-Par ailleurs, quand on considère que le COVID est d'une certaine manière [révélateur de la pression humaine sur le vivant](https://youtu.be/x2vaYVcS-sM&t=165), et que la crise du COVID c'est de la roupie de sansonnet comparée à celle du réchauffement climatique, c'est un peu comme dire
+Par ailleurs, quand on considère que le COVID est d'une certaine manière [révélateur de la pression humaine sur le vivant](https://www.youtube.com/watch?v=x2vaYVcS-sM&t=165), et que la crise du COVID c'est de la roupie de sansonnet comparée à celle du réchauffement climatique, c'est un peu comme dire
 
 > c'est vraiment pas le moment de lutter pour la planète avec les crises environnementales qui arrivent!
 
@@ -96,7 +96,7 @@ Qu'est-ce qu'on dit à nos enfants, nos petits-enfants ou plus globalement aux j
 
 Un des tracts expose que la loi Énergie-Climat établit un plafond à 330kWh/m2 alors que notre consommation énergétique serait inférieure à ce seuil. Le conseil syndical a répondu à ce point : ces plafonds concernent [4,8 millions de "passoires thermiques"](https://www.lemonde.fr/economie/article/2020/09/02/pres-de-cinq-millions-de-passoires-thermiques-en-france_6050633_3234.html) qui sont F ou G sur l’échelle du diagnostic de performance énergétique (DPE). Nous sommes en **catégorie E** juste avant ces passoires.
 
-Rien d'important si nous étions dans un petit pavillon de 4 personnes, mais vu la taille de notre résidence, ce n'est pas un luxe que d'améliorer cette situation. 
+Rien d'important si nous étions dans un petit pavillon de 4 personnes, mais vu la taille de notre résidence, ce n'est pas un luxe que d'améliorer cette situation.
 
 Les travaux permettraient un gain énergétique de plus de 40%. Sachant que nous avons des émissions des Gaz à Effet de Serre de 1 562 392 t éqCO2 (source [2015-11-19-Additif-pour-APC.pdf](https://conseil-syndical-belvedere.fr/wp-content/uploads/2019/02/2015-11-19-Additif-pour-APC.pdf)) cela ferait **624 956 t éqCO2**. Un A/R Paris/New York c'est [une tonne éqCO2](https://eco-calculateur.dta.aviation-civile.gouv.fr/). Ca reviendrait à économiser 1598 voyages pour New York par appartement et par an.
 
