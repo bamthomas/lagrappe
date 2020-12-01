@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Lettre ouverte à mes copropriétaires
 author:
   display_name: Bruno Thomas
@@ -54,7 +55,7 @@ Pourquoi c'est faux.
 
 Deux entreprises ont été mandatées pour faire des appels d'offres. Il s'agit de [Ceteam](http://www.ceteam.eu/) et [LCO](http://www.lco-ing.fr/). Une douzaine d'entreprises ont été consultées.
 
-L'analyse des offres a été faite le 24 juin (avec les entreprises mieux disantes, une personne de Ceteam , Léa et Martine), avec un rapport final du 8 juillet 2020 par Ceteam (missionné à l’AG 2019) pour les vitrages des parties communes (lauréat final Negro) et les toits-terrasses (lauréat final Etandex).
+L'analyse des offres a été faite le 24 juin (avec les entreprises mieux disantes, une personne de Ceteam , et deux personnes du conseil syndical), avec un rapport final du 8 juillet 2020 par Ceteam (missionné à l’AG 2019) pour les vitrages des parties communes (lauréat final Negro) et les toits-terrasses (lauréat final Etandex).
 
 Une autre analyse des offres a été faite le 3 septembre 2020 pour la CTA (ventilation) piscine. Il n'y a pas eu de réunion finale « en présentiel » (la personne de LCO avait le COVID).
 
@@ -98,7 +99,7 @@ Un des tracts expose que la loi Énergie-Climat établit un plafond à 330kWh/m2
 
 Rien d'important si nous étions dans un petit pavillon de 4 personnes, mais vu la taille de notre résidence, ce n'est pas un luxe que d'améliorer cette situation.
 
-Les travaux permettraient un gain énergétique de 68%. Sachant que nous avons des émissions des Gaz à Effet de Serre de 1 562 392 t éqCO2 (source [2015-11-19-Additif-pour-APC.pdf](https://conseil-syndical-belvedere.fr/wp-content/uploads/2019/02/2015-11-19-Additif-pour-APC.pdf)) cela ferait **624 956 t éqCO2**. Un A/R Paris/New York c'est [une tonne éqCO2](https://eco-calculateur.dta.aviation-civile.gouv.fr/) par personne. Ca reviendrait à économiser 1598 voyages pour New York par appartement et par an.
+Par exemple, nous avons des émissions des Gaz à Effet de Serre de 1 562 392 t éqCO2 (source [2015-11-19-Additif-pour-APC.pdf](https://conseil-syndical-belvedere.fr/wp-content/uploads/2019/02/2015-11-19-Additif-pour-APC.pdf)). Un A/R Paris/New York c'est [une tonne éqCO2](https://eco-calculateur.dta.aviation-civile.gouv.fr/) par personne. Cela équivaut à 1 562 392 allers retours Paris/New York, soit 3876 par appartement.
 
 Par ailleurs si on le fait tôt on donne l'exemple, on permet à d'autres de bénéficier de notre expérience, on fait avancer le chantier global de la rénovation thermique des grands ensembles immobiliers.
 
