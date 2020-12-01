@@ -26,7 +26,7 @@ Les décisions qu'on prend dans cette prochaine Assemblée Générale à distanc
 
 Une des conséquences inattendues du COVID c'est que notre AG de copro n'aura pas lieu en présentiel, alors que fait rage un nouveau débat sur la rénovation thermique de notre résidence. Conséquence : 4 tracts dans nos boites aux lettres nous demandent de voter contre.
 
-Pour ceux qui passeraient par là, sans contexte, je m'appelle [Bruno Thomas](https://twitter.com/bam_thomas) j'habite dans le 19e arrondissement de Paris depuis 14 ans, dans une grande résidence de 391 logements. Notre consommation en 2015 était de l'ordre de 6388 MWh. Je m'intéresse à l'écologie depuis 5 ans, date à laquelle je commençais [un projet](https://iroco.co) d'écoconception informatique.
+Pour ceux qui passeraient par là, sans contexte, je m'appelle [Bruno Thomas](https://twitter.com/bam_thomas) j'habite dans le 19e arrondissement de Paris depuis 14 ans, dans une grande résidence de 403 logements. Notre consommation en 2015 était de l'ordre de 6388 MWh. Je m'intéresse à l'écologie depuis 5 ans, date à laquelle je commençais [un projet](https://iroco.co) d'écoconception informatique.
 
 Plutôt timide, je ne suis pas du tout un pilier d'AGs ou du poste de sécurité. J'y participe, mais je n'y ai jamais pris la parole en 14 ans. Alors pourquoi ici ?
 
@@ -54,13 +54,13 @@ Pourquoi c'est faux.
 
 Deux entreprises ont été mandatées pour faire des appels d'offres. Il s'agit de [Ceteam](http://www.ceteam.eu/) et [LCO](http://www.lco-ing.fr/). Une douzaine d'entreprises ont été consultées.
 
-L'analyse des offres a été faite le 24 juin (avec les entreprises, une personne de Ceteam , Léa et Martine), avec un rapport final du 8 juillet 2020 par Ceteam (missionné à l’AG 2019) pour les vitrages des parties communes (lauréat final Negro) et les toits-terrasses (lauréat final Etandex).
+L'analyse des offres a été faite le 24 juin (avec les entreprises mieux disantes, une personne de Ceteam , Léa et Martine), avec un rapport final du 8 juillet 2020 par Ceteam (missionné à l’AG 2019) pour les vitrages des parties communes (lauréat final Negro) et les toits-terrasses (lauréat final Etandex).
 
 Une autre analyse des offres a été faite le 3 septembre 2020 pour la CTA (ventilation) piscine. Il n'y a pas eu de réunion finale « en présentiel » (la personne de LCO avait le COVID).
 
-D’autres travaux ne font pas l’objet d’appel d’offres (ce que des membres du conseil ont regretté mais qui est légal) : DT, qui a un contrat de maintenance ventilation, a présenté un projet pour la VMC logements.
+les seuls travaux sans appel d’offres sont la ventilation logements, débattue depuis plusieurs années (2015) avec DT qui est titulaire d’un contrat de maintenance.
 
-Le rapport de la commission finale pour la subvention des travaux accorde une aide. Jamais une commission publique validerait un projet dans l'illégalité.
+Le rapport de la commission finale pour la subvention des travaux accorde une aide. Jamais une commission publique ne validerait un projet dans l'illégalité.
 
 ![commission finale](images/lettre_belve/lettre_mairie_paris.jpg)
 
@@ -70,7 +70,7 @@ J'invite les personnes qui relaient cette rumeur à se rapprocher du conseil syn
 
 L'échelle de la résidence est la première chose qui m'a faciné. Quand on entend parler en M€ lors des premières AG il y a une sorte de vertige économique.
 
-Mais ces chiffres absolus prennent une autre signification lorsqu'ils sont déclinés par logement. Par exemple, ce même chiffre divisé par 3 (le nombre d'années des travaux), puis par 391 (le nombre de logements), retranché des aides publiques de 30% ça donne 775€ par an et par logement (en moyenne). C'est à dire 64€ par mois.
+Mais ces chiffres absolus prennent une autre signification lorsqu'ils sont déclinés par logement. Par exemple, ce même chiffre divisé par 3 (le nombre d'années des travaux), puis par 403 (le nombre de logements), retranché des aides publiques de 30% ça donne environ 750€ par an et par logement (attention c'est un calcul approximatif pour se faire une idée). C'est à dire un peu plus de 60€ par mois.
 
 ## Avec le COVID c'est pas le moment
 
@@ -98,7 +98,7 @@ Un des tracts expose que la loi Énergie-Climat établit un plafond à 330kWh/m2
 
 Rien d'important si nous étions dans un petit pavillon de 4 personnes, mais vu la taille de notre résidence, ce n'est pas un luxe que d'améliorer cette situation.
 
-Les travaux permettraient un gain énergétique de plus de 40%. Sachant que nous avons des émissions des Gaz à Effet de Serre de 1 562 392 t éqCO2 (source [2015-11-19-Additif-pour-APC.pdf](https://conseil-syndical-belvedere.fr/wp-content/uploads/2019/02/2015-11-19-Additif-pour-APC.pdf)) cela ferait **624 956 t éqCO2**. Un A/R Paris/New York c'est [une tonne éqCO2](https://eco-calculateur.dta.aviation-civile.gouv.fr/) par personne. Ca reviendrait à économiser 1598 voyages pour New York par appartement et par an.
+Les travaux permettraient un gain énergétique de 68%. Sachant que nous avons des émissions des Gaz à Effet de Serre de 1 562 392 t éqCO2 (source [2015-11-19-Additif-pour-APC.pdf](https://conseil-syndical-belvedere.fr/wp-content/uploads/2019/02/2015-11-19-Additif-pour-APC.pdf)) cela ferait **624 956 t éqCO2**. Un A/R Paris/New York c'est [une tonne éqCO2](https://eco-calculateur.dta.aviation-civile.gouv.fr/) par personne. Ca reviendrait à économiser 1598 voyages pour New York par appartement et par an.
 
 Par ailleurs si on le fait tôt on donne l'exemple, on permet à d'autres de bénéficier de notre expérience, on fait avancer le chantier global de la rénovation thermique des grands ensembles immobiliers.
 
@@ -108,7 +108,9 @@ Par ailleurs si on le fait tôt on donne l'exemple, on permet à d'autres de bé
 
 Mais s'il fallait ne retenir qu'une chose de ces tracts demandant de voter contre c'est l'absence d'alternative. OK on ne veut pas dépenser, c'est pas le moment, etc. Mais au final quelles sont les alternatives ?
 
-Or il y a aussi un risque à ne rien faire : ne pas participer à l'amélioration du climat, prendre du retard dans les rénovations des habitats, passer à côté des opportunités de financement de nos travaux, dévaluer notre patrimoine immobilier, avoir des conditions de vie dégradées, ne pas être fier de notre cadre de vie
+Or il y a aussi un risque à ne rien faire : ne pas participer à l'amélioration du climat, prendre du retard dans les rénovations des habitats, passer à côté des opportunités de financement de nos travaux, dévaluer notre patrimoine immobilier, avoir des conditions de vie dégradées, ne pas être fier de notre cadre de vie.
+
+Par exemple, pour les financements nous avons passé 3 étapes depuis 2018 afin de les maintenir, et les conditions d'obtention ont été durcies (que Belvédère Fenêtres atteigne ses objectifs en 2021). Dès 2021 la rénovation thermique va devenir obligatoire, les incitations n'existeront plus. C'est donc la dernière opportunité que nous ayons de bénéficier de ces aides.
 
 ## L'asymétrie de la désinformation
 
