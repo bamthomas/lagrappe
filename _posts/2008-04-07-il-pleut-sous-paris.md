@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Il pleut sous Paris"
 date: "2008-04-07"
 ---

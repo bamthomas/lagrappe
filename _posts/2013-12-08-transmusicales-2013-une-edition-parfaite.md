@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Transmusicales 2013 : une édition parfaite"
 date: "2013-12-08"
 ---

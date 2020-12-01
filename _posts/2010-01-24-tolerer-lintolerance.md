@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Tolérer l'intolérance ?"
 date: "2010-01-24"
 ---

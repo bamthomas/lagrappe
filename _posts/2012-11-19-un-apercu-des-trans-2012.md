@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Un aperçu de la 34e édition des trans"
 date: "2012-11-19"
 ---

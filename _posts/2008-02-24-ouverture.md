@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ouverture"
 date: "2008-02-24"
 ---

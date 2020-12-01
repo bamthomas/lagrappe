@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Le parc national de Hortobágyi"
 date: "2010-04-28"
 ---

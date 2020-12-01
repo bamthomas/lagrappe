@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Joyeuses Pâques!"
 date: "2008-04-06"
 ---

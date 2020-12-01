@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Alors, les nuits sonores ?"
 date: "2010-05-18"
 ---

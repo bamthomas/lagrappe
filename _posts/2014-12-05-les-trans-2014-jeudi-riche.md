@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Les trans 2014, jeudi riche"
 date: "2014-12-05"
 ---

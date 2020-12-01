@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Quid du MP3 pour écouter chez soi ?"
 date: "2008-03-15"
 ---

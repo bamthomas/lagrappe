@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Transmusicales 2014, survol de la prog"
 date: "2014-12-01"
 ---

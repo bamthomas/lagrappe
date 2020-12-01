@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Transmusicales 2014, une édition pleine de souffle"
 date: "2014-12-08"
 ---

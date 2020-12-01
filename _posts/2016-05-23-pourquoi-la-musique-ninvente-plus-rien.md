@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "\"Pourquoi la musique n'invente plus rien ?\""
 date: "2016-05-23"
 ---

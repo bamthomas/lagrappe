@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Les transmusicales 2012, vendredi"
 date: "2012-12-08"
 ---

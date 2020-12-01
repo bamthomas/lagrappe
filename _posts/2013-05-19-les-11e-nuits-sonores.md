@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Les 11e nuits sonores"
 date: "2013-05-19"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Transmusicales 2013 : un vrai samedi en trans"
 date: "2013-12-08"
 ---

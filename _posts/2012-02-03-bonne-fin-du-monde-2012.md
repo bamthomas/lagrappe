@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bonne fin du monde 2012 !"
 date: "2012-02-03"
 ---

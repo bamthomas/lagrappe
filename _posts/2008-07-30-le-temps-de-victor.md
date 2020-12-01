@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Le temps de Victor"
 date: "2008-07-30"
 ---

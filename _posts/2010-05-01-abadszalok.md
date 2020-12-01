@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Abádszalók"
 date: "2010-05-01"
 ---

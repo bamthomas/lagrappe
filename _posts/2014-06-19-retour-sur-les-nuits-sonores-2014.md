@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Retour sur les Nuits Sonores 2014"
 date: "2014-06-19"
 ---

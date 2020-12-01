@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Transmusicales 2010, la programmation"
 date: "2010-11-22"
 ---

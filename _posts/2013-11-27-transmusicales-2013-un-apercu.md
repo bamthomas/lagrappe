@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Transmusicales 2013 - un aperçu"
 date: "2013-11-27"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Le train des enfants"
 date: "2010-04-22"
 ---

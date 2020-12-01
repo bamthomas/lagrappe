@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Visite à Budapest"
 date: "2008-03-11"
 ---

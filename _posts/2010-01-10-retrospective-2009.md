@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Rétrospective 2009"
 date: "2010-01-10"
 ---

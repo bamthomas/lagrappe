@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "La \"plus grosse teuf du monde\""
 date: "2011-06-26"
 ---

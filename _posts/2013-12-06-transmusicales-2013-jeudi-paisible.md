@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Transmusicales 2013 : jeudi paisible"
 date: "2013-12-06"
 ---

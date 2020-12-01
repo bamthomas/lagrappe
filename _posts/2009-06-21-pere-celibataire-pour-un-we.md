@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Père célibataire pour un WE"
 date: "2009-06-21"
 ---

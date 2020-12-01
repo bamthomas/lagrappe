@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Tisza Lodge"
 date: "2010-04-26"
 ---

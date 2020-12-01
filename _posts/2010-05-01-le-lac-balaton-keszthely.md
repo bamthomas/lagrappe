@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Le lac Balaton - Keszthely"
 date: "2010-05-01"
 ---

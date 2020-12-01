@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Les transmusicales 2015 : passé à côté"
 date: "2015-12-19"
 ---

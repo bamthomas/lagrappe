@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Transmusicales 2009, samedi"
 date: "2009-12-09"
 ---

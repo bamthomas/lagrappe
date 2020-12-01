@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Alors, les 14e Nuits Sonores ?"
 date: "2016-05-23"
 ---

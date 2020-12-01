@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Les Trans 2010, le bilan"
 date: "2010-12-15"
 ---

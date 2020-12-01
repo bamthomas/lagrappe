@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Transmusicales 2012, le bilan"
 date: "2012-12-11"
 ---

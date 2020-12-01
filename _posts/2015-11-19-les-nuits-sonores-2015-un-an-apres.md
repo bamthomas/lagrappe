@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Les nuits sonores 2015 un an après"
 date: "2015-11-19"
 ---

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Romkocsma"
 date: "2010-04-26"
 ---

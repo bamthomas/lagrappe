@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Alors les trans 2009..."
 date: "2009-12-10"
 ---

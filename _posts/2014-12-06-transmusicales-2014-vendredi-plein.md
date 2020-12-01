@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Transmusicales 2014 : vendredi plein"
 date: "2014-12-06"
 ---

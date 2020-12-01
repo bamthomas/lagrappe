@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Transmusicales 2013 : vendredi inattendu"
 date: "2013-12-07"
 ---

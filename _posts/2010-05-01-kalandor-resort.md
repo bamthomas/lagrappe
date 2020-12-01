@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Kalandor Resort"
 date: "2010-05-01"
 ---
