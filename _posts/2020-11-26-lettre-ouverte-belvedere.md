@@ -38,7 +38,7 @@ Je crois pour trois raisons :
 
 Pour les personnes contre ces rénovations qui passeraient également ici, je précise juste que j'écris ce mot de ma propre initiative et rien d'autre (pas de service commandé de qui que ce soit).
 
-![tracts](images/lettre_belve/tracts.png)
+![tracts]({{ site.url }}/images/lettre_belve/tracts.png)
 
 C'est intéressant de lire ces tracts car ils sont sincères. Des personnes ont pris le temps de les écrire, les sourcer, et argumenter (sauf pour celui en premier plan sur la photo). Et ces tracts influenceront probablement des indécis, rassureront ceux qui ne veulent/peuvent pas investir, et auront l'adhésion des proches des auteurs.
 
@@ -63,7 +63,7 @@ les seuls travaux sans appel d’offres sont la ventilation logements, débattue
 
 Le rapport de la commission finale pour la subvention des travaux accorde une aide. Jamais une commission publique ne validerait un projet dans l'illégalité.
 
-![commission finale](images/lettre_belve/lettre_mairie_paris.jpg)
+![commission finale]({{ site.url }}/images/lettre_belve/lettre_mairie_paris.jpg)
 
 J'invite les personnes qui relaient cette rumeur à se rapprocher du conseil syndical et à se renseigner, les documents sont disponibles.
 
