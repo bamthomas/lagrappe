@@ -69,13 +69,13 @@ J'invite les personnes qui relaient cette rumeur à se rapprocher du conseil syn
 
 ## 1,3M€ c'est pharaonique
 
-L'échelle de la résidence est la première chose qui m'a faciné. Quand on entend parler en M€ lors des premières AG il y a une sorte de vertige économique.
+L'échelle de la résidence est la première chose qui m'a fasciné. Quand on entend parler en M€ lors des premières AG il y a une sorte de vertige économique.
 
 Mais ces chiffres absolus prennent une autre signification lorsqu'ils sont déclinés par logement. Par exemple, ce même chiffre divisé par 3 (le nombre d'années des travaux), puis par 403 (le nombre de logements), retranché des aides publiques de 30% ça donne environ 750€ par an et par logement (attention c'est un calcul approximatif pour se faire une idée). C'est à dire un peu plus de 60€ par mois.
 
 ## Avec le COVID c'est pas le moment
 
-Je me souviens il y a quelques années nous devions voter depuis 3 ans des travaux de mise aux normes de sécurité (repoussés à chaque AG), si bien que la préfecture menaçait de faire évacuer tout le bâtiment B (Immeuble de Grande Hauteur), si nous ne votions pas la résolution. Il y eut encore 30 à 40% des personnes qui votèrent contre. A cette époque, aucune pandémie, la société française était en allure de croisière.
+Il y a quelques années nous devions voter depuis 3 ans des travaux de mise aux normes de sécurité (repoussés à chaque AG), si bien que la préfecture menaçait de faire évacuer tout le bâtiment B (Immeuble de Grande Hauteur), si nous ne votions pas la résolution. Il y eut encore 30 à 40% des personnes qui votèrent contre. A cette époque, aucune pandémie, la société française était en allure de croisière.
 
 ![covid & changement climatique](https://pbs.twimg.com/media/EU_ZRGHU8AAGNZL?format=jpg&name=small)
 
@@ -91,7 +91,7 @@ Alors on fait comment ?
 
 Mais qu'est-ce qu'on attend ? Que les gens de bonne volonté qui passent des centaines d'heures de bénévolat pour faire des petits pas dans le bon sens soient dégoûtés et qu'ils s'en aillent ? Qu'ils soient suivis par les personnes les plus mobiles et audacieuses ? Que les derniers ayant du pouvoir d'achat, amers de voir leur résidence perdre en attractivité partent à leur tour ?
 
-Qu'est-ce qu'on dit à nos enfants, nos petits-enfants ou plus globalement aux jeunes quand ils nous demandent ce qu'on fait pour que leur vie ne soit pas trop dégradée par rapport à celle que nous avons vécu ?
+Qu'est-ce qu'on dit à nos enfants, nos petits-enfants ou aux plus jeunes quand ils nous demandent ce qu'on fait pour que leur vie ne soit pas trop dégradée par rapport à celle que nous avons vécu ?
 
 ## L'immeuble n'est pas une passoire thermique
 
@@ -99,7 +99,7 @@ Un des tracts expose que la loi Énergie-Climat établit un plafond à 330kWh/m2
 
 Rien d'important si nous étions dans un petit pavillon de 4 personnes, mais vu la taille de notre résidence, ce n'est pas un luxe que d'améliorer cette situation.
 
-Par exemple, nous avons des émissions des Gaz à Effet de Serre de 1 562 392 t éqCO2 (source [2015-11-19-Additif-pour-APC.pdf](https://conseil-syndical-belvedere.fr/wp-content/uploads/2019/02/2015-11-19-Additif-pour-APC.pdf)). Un A/R Paris/New York c'est [une tonne éqCO2](https://eco-calculateur.dta.aviation-civile.gouv.fr/) par personne. Cela équivaut à 1 562 392 allers retours Paris/New York, soit 3876 par appartement.
+Par exemple, nous rejetons un équivalent d'émissions de Gaz à Effet de Serre de 1 562 392 t éqCO2 (source [2015-11-19-Additif-pour-APC.pdf](https://conseil-syndical-belvedere.fr/wp-content/uploads/2019/02/2015-11-19-Additif-pour-APC.pdf)). Un A/R Paris/New York c'est [une tonne éqCO2](https://eco-calculateur.dta.aviation-civile.gouv.fr/) par personne. Cela équivaut à 1 562 392 allers-retours Paris/New York, soit 3876 par appartement. Imaginez l'argument face à Gégé "alors ton vieux diesel, toujours pas remplacé ?" - "Non mais j'économise l'équivalent de plusieurs centaines d'allers-retours Paris/NY par an avec les travaux que je finance dans notre résidence".
 
 Par ailleurs si on le fait tôt on donne l'exemple, on permet à d'autres de bénéficier de notre expérience, on fait avancer le chantier global de la rénovation thermique des grands ensembles immobiliers.
 
@@ -124,4 +124,4 @@ Il y a deux semaines est sorti un "documentaire", financé par crowdfounding. C'
 
 La simplicité de la rumeur et l'attrait de la désinformation les rendent beaucoup plus véloces que les faits scientifiques ou les explications détaillées et sourcées. Ces tracts en sont un exemple miniature. Ces rumeurs circulent déjà : on entend des allusions au gré des discussions, des personnes interpellent pour voter contre dans les ascenseurs. Bizarrement, personne ne m'a approché pour me dire de surtout voter pour. C'est un hold-up informationnel.
 
-Malgré tout, je reste optimiste, car je crois aussi que la plupart des personnes "de la majorité silencieuse", n'en dit rien, mais n'en pense pas moins. J'espère que, comme aux Etats-Unis récemment, c'est elle qui l'emportera.
+Malgré tout, je reste optimiste, car je crois aussi que la plupart des personnes "de la majorité silencieuse", n'en dit rien, mais n'en pense pas moins. J'espère que, comme aux États-Unis récemment, c'est elle qui l'emportera.
