@@ -57,7 +57,7 @@ Si vous en utilisez une autre, et que vous voulez partager votre expérience, ç
 
 **Edit** : [cet article](https://www.frandroid.com/android/applications/823520_whatsapp-sera-inaccessible-si-vous-ne-partagez-pas-vos-donnees-avec-facebook) explique que ces changements de conditions ne concernent pas les utilisateurs européens. En ce qui me concerne, cela ne me rassure pas, et je ne vais pas attendre une prochaine mise à jour des CGU pour changer
 
-**Edit2** : [cet autre article](https://www.wired.com/story/whatsapp-facebook-data-share-notification/) explique que depuis déjà 2016 facebook récupère les données de whatsapp. Comme dit Evan Greer, sous-directeur du groupe pour les droits numériques [Fight For The Future](https://www.fightforthefuture.org/) : *“Je ne fais confiance à aucun produit de Facebook. Leur modèle d'affaire est basé sur la surveillance. Ne l'oubliez jamais.”*. Mieux vaut tard que jamais.
+**Edit2** : [cet autre article](https://www.wired.com/story/whatsapp-facebook-data-share-notification/) précise que depuis déjà 2016 facebook récupère les données de whatsapp. Comme dit Evan Greer, sous-directeur du groupe pour les droits numériques [Fight For The Future](https://www.fightforthefuture.org/) : *“Je ne fais confiance à aucun produit de Facebook. Leur modèle d'affaire est basé sur la surveillance. Ne l'oubliez jamais.”*. Mieux vaut tard que jamais.
 
 Liens sur Facebook et la démocracie:
 * [Facebook Has Been a Disaster for the World](https://www.nytimes.com/2020/09/18/opinion/facebook-democracy.html)
