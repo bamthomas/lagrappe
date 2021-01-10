@@ -47,12 +47,13 @@ Le pire c'est que l'utilisation de ces données reste très opaque, on ne sait p
 - [signal](https://www.signal.org/) voir [cet article en français](https://iampox.com/blog/pourquoi-abandonner-whatsapp-au-profit-de-signal) qui en parle. Signal est opensource c'est un avantage de transparence
 - [chatpril](https://www.chapril.org/XMPP) fournit également un serveur XMPP qui n'utilisera pas vos données
 - [deltachat](https://delta.chat/fr/) est aussi opensource et utilise les protocoles mail pour fonctionner (IMAP et SMTP)
+- [viber](https://www.viber.com/fr/) créé par une société Israélienne et racheté par la société japonnaise Rakuten. Il assure le chiffrement de bout en bout, et a déjà un milliard d'utilisateurs (notamment dans les pays d'Europe de l'Est)
 
 Et puis il y a encore plein d'autres solutions comme celles répertoriées [ici](https://www.techolac.com/whatsapp-alternatives/).
 
 Si vous en utilisez une autre, et que vous voulez partager votre expérience, ça m'intéresse, je l'ajouterai.
 
-**Edit** : [cet article](https://www.frandroid.com/android/applications/823520_whatsapp-sera-inaccessible-si-vous-ne-partagez-pas-vos-donnees-avec-facebook) explique que ces changements de conditions ne concernent pas les utilisateurs européens. En ce qui me concerne, cela ne me rassure pas, et je ne vais pas attendre une prochaine mise à jour des CGU pour changer. 
+**Edit** : [cet article](https://www.frandroid.com/android/applications/823520_whatsapp-sera-inaccessible-si-vous-ne-partagez-pas-vos-donnees-avec-facebook) explique que ces changements de conditions ne concernent pas les utilisateurs européens. En ce qui me concerne, cela ne me rassure pas, et je ne vais pas attendre une prochaine mise à jour des CGU pour changer.
 
 Liens sur Facebook et la démocracie:
 * https://www.nytimes.com/2020/09/18/opinion/facebook-democracy.html
