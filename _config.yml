@@ -18,11 +18,11 @@ github: 'bamthomas/lagrappe'
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
 permalink: /:title/
 plugins:
-- jekyll-paginate-v2
-- jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
 
 pagination:
   enabled: true
