@@ -8,7 +8,7 @@ Nous y voilà. Jeudi nous serons à nouveau plongés dans le tourbillon musical 
 
 Comme vue d'ensemble, voici un nuage de mots-thématiques basé sur les descriptions des 101 artistes de l'affiche :
 
-[![WordItOut-word-cloud-601328](images/WordItOut-word-cloud-601328.png)](http://www.lagrappe.net/wp-content/WordItOut-word-cloud-601328.png)
+[![WordItOut-word-cloud-601328](/images/WordItOut-word-cloud-601328.png)](http://www.lagrappe.net/wp-content/WordItOut-word-cloud-601328.png)
 
 Première surprise: à l'écoute, nous avions eu l'impression d'une poussée hip-hop, mais c'est plutôt l'électro qui ressort dans le nuage (peut-être lié à la ligne éditoriale). Pour rester dans les stats, les Français nous semblaient nombreux ; ils ne représentent "que" 40%. Viennent ensuite les États-Unis, l'Angleterre. Comme d'habitude on retrouve une grande diversité de styles et d'origines. L'année dernière il y avait LE gros concert, Stromaé, et d'autres groupes plus éclectiques. Cette année paraît beaucoup plus riche et trans-musicale : du jazz de [Tumi Mogorosi](https://www.youtube.com/watch?v=AJwhJ6nHbLY) en passant par l'afro-funk nova-esque de [Vaudou Game](https://www.youtube.com/watch?v=sN9StbxjJPw), l'électro de [Boris Brejcha](https://soundcloud.com/boris-brejcha), la chanson avec [Dad Rocks!](https://www.youtube.com/watch?v=toSTXiy0Rxs), la danse hip-hop avec [Cie 6ème Dimension](https://www.youtube.com/watch?v=PCOk9ZTFUXo).
 

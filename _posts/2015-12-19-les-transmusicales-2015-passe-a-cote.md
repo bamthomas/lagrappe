@@ -30,14 +30,14 @@ Nous arrivons au Parc Expo, cool, pas besoin de carte presse pour rentrer avec u
 
 Nous avons loupé de peu The Dizzy Brains, groupe de Madagascar, du rock garage forcément DIY, et avec l'énergie de la rébellion. Tout le contraire de la soupe asceptisée servie sur la plupart des ondes FM. Typiquement le genre trans, d'ailleurs Jean-Louis Brossart (Le créateur du festival) a eu un coup de coeur pour eux, c'est dire.
 
-[![IMGP1505](images/23215709354_ffa207d8b8.jpg)](https://www.flickr.com/photos/31719094@N04/23215709354/ "IMGP1505")
+[![IMGP1505](/images/23215709354_ffa207d8b8.jpg)](https://www.flickr.com/photos/31719094@N04/23215709354/ "IMGP1505")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Puis nous avons pas mal squatté le hall 3, avec d'abord Son Little, "sorte de Marvin Gaye des temps modernes" dixit la programmation. C'est assez juste, Aaron Livingston a collaboré avec The Roots et RDJ2. Blues rock assez classique, et tiré au cordeau, se décalant un peu sur le hip hop et le raeggae.
 
 On reste dans le style même si la forme est complètement différente avec les vieux facétieux de Grand Cannon. Nous avions rencontré Pfuri Baldenweg la veille au soir dehors, prenant un spliff avant le dessert dans le même resto que nous. Nous avions un peu discuté, il nous posait plein de questions, tout le contraire des artistes égotiques et torturés. Leur musique est plus folklorique que le groupe précédent, avec de l'accordéon, de l'harmonica. Bien plus chtarbée aussi, puisque Pfuri nous a joué de l'harmonica et chanté la tête dans un seau d'eau.
 
-[![IMGP1517](images/23217049173_0e6ff12704.jpg)](https://www.flickr.com/photos/31719094@N04/23217049173/ "IMGP1517")
+[![IMGP1517](/images/23217049173_0e6ff12704.jpg)](https://www.flickr.com/photos/31719094@N04/23217049173/ "IMGP1517")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Totoro était plus rock hypnotique et classieux. Leur nom est un emprunt au film de Myazaki, et je trouve colle assez bien à la musique qu'ils jouent : élégant, profond et intelligent, d'une apparente simplicité. Mais rien de simple, c'est dense et audacieux, il y a même une trompette, sur du rock c'est plutôt inhabituel. Leur concert donne envie d'écouter attentivement leur album.
@@ -56,7 +56,7 @@ Cela me faisait penser à ce que disait Günther Anders, dans l'Obsolescence de 
 
 Nous allons dans la green room pour voir quelque chose de plus rapide : [Charlotte de Witte](http://www.charlottedewittemusic.com/), de la tech minimale par une jolie DJette Belge. Fine, jeune, super élégante, sans être ni lookée ni mise en avant. Ne nous mentons pas, même si c'est absurde, son esthétique décontractée constitue une bonne partie de l'engouement du public. Allons même plus loin dans un sexisme assumé, il y a une sorte de jubilation devant cette fille debout sur une montagne de machines au centre de la salle, qui envoie du pâté par centaines de watt, en buvant du champagne dans un gobelet en plastique, tirant de temps en temps de manière distinguée sur sa cigarette.
 
-[![](images/12304501_1104286296249804_8850292628174533204_o.jpg)](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/12304501_1104286296249804_8850292628174533204_o.jpg)
+[![](/images/12304501_1104286296249804_8850292628174533204_o.jpg)](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/12304501_1104286296249804_8850292628174533204_o.jpg)
 
 [Monika](http://www.iammonika.com/) : mélange improbable folk, pop, soul, avec une trompette encore, mais avec un son un peu eurovision. Pas trop fan.
 
@@ -71,7 +71,7 @@ Khun Narin's Electric Phin Band : le groupe Taïlandais qui joue 12 chansons en 
 
 Puis [Idiotape](http://www.idiotape.com), des Corée. Ils sont 3 sur scène, deux aux claviers et samples, et une grosse batterie au centre. C'est de la techno qui tape fort. Carole me fait justement remarquer la ressemblance parfois avec Justice.
 
-[![IMGP1531](images/23735449932_affcd6eb7f.jpg)](https://www.flickr.com/photos/31719094@N04/23735449932/in/album-72157661983686740/ "IMGP1531")
+[![IMGP1531](/images/23735449932_affcd6eb7f.jpg)](https://www.flickr.com/photos/31719094@N04/23735449932/in/album-72157661983686740/ "IMGP1531")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Du rap Sud Africain dans le hall 8 : [Okmalumkoolkat, Cid Rim & the Clonious](https://soundcloud.com/affine-records/okmalumkoolkat-holy-oxygen), ça ne s'invente pas, et ne se retient pas. Un black avec une grosse présence sur scène, bon flow. Rythmiquement c'est très déstructuré, mais l'ensemble tient bien.

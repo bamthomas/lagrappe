@@ -4,7 +4,7 @@ title: "Transmusicales 2010, la programmation"
 date: "2010-11-22"
 ---
 
-[![visuel trans 2010](images/trans_2010.jpg "trans_2010")](http://www.lestrans.fr)
+[![visuel trans 2010](/images/trans_2010.jpg "trans_2010")](http://www.lestrans.fr)
 
 Depuis la parution de la programmation de la 32e édition des transmusicales, j'ai pu écouter la web radio des trans 2010 sur deezer, lire les articles, et aller sur myspace pour voir d'un peu plus près certains des groupes qui passeront les 9, 10 et 11 décembre à Rennes. Première impression, cette sélection est bien dans l'esprit du festival, avec peu de "têtes d'affiche" ; on est bien dans la découverte.
 

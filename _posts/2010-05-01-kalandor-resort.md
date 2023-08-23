@@ -6,11 +6,11 @@ date: "2010-05-01"
 
 De même que pour [Tisza Lodge](http://www.lagrappe.net/tisza-lodge), si vous cherchez une chambre d'hôtes dans la nature aux alentours du lac Balaton cette fois-ci, vous pouvez aller à [Kalandor Resort](http://kalandor.nl/). Ce sont de petites maisons indépendantes pour quatre personnes, avec une cuisine.
 
-![](images/IMGP8516.jpg)
+![](/images/IMGP8516.jpg)
 
 Ces maisons d'hôtes ont été réalisées par 2 néerlandais très sympas, Erik et Gerrit qui ont plaqué leurs anciens boulots pour se lancer dans cette aventure. Ils pourront vous expliquer tout ça en partageant votre table si vous le souhaitez, et s'ils sont disponibles. Ils vous proposeront une cuisine simple, locale (comme des salades hongroises, le fameux Goulash, Rétes pour nous), et bien faite. Ils pourront aussi vous renseigner sur les nombreux endroits où aller dans les alentours ou les balades à faire.
 
-![](images/IMGP8519.jpg)
+![](/images/IMGP8519.jpg)
 
 L'originalité c'est cette cave sous terre en Y (la porte ouverte au milieu ci-dessus) avec une branche salon-télé et une branche bibliothèque. Dans la branche principale se trouve une salle à manger. Ils l'ont restaurée car elle abritait une cave à vin, et assure une climatisation naturelle l'été.
 

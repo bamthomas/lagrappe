@@ -14,4 +14,4 @@ Et puis cette année on n'aura jamais autant vu et entendu parler de Jean-Louis 
 
 Et Merci à tous ceux qui ont bossé pour ces Trans, à l'année prochaine !
 
-[![IMGP5046.jpg](images/11275697253_2ce88dc814.jpg)](http://www.flickr.com/photos/31719094@N04/11275697253/ "IMGP5046.jpg by bamthomas, on Flickr")
+[![IMGP5046.jpg](/images/11275697253_2ce88dc814.jpg)](http://www.flickr.com/photos/31719094@N04/11275697253/ "IMGP5046.jpg by bamthomas, on Flickr")

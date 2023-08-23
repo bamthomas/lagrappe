@@ -8,7 +8,7 @@ date: "2013-05-19"
 
 Je n'ai pas pu arriver avant le jeudi. En arrivant de mon premier covoiturage, depuis Sarlat, je vais faire un tour aux subs, petite nostalgie de l'édition 2007 dont j'ai un très bon souvenir d'abord pour l'esthétique du lieu, et puis pour la prog : [Apparat](http://www.apparat.net/), [Sebastian](http://www.myspace.com/0sebastian0), [Tiefschwarz](https://soundcloud.com/tiefschwarz-1), [James Holden](http://www.jamesholden.org/), [Joakim](https://soundcloud.com/joakimbouaziz)... Je ne sais pas si c'est le syndrome vieux-con mais je me demande si la prog n'était pas plus riche à cette époque où le festival devait faire ses preuves... pour l'heure, grosse déception : NS days aux subs ça tape comme à 4 du mat (par ex [Ryan Cronson](http://www.myspace.com/ryancrosson), [Seth Troxler](https://soundcloud.com/sethtroxler)), mais il fait jour, on n'est pas "dans l'ambiance". Je regarde avec un mélange d'incompréhension et d'envie les gens qui transent, seuls dans leurs trips.
 
-[![IMGP0225.jpg](images/8751927362_621ecd8807.jpg)](http://www.flickr.com/photos/31719094@N04/8751927362/ "IMGP0225.jpg de bamthomas, sur Flickr")
+[![IMGP0225.jpg](/images/8751927362_621ecd8807.jpg)](http://www.flickr.com/photos/31719094@N04/8751927362/ "IMGP0225.jpg de bamthomas, sur Flickr")
 
 Petit détour au Modern, avant de ne pas arriver à rentrer à la plateforme pour la nuit Kompakt (j'aurais bien revu [Kölsch](http://www.youtube.com/watch?v=cRKhrD-MuW4)), car c'était blindé. #fail, mais heureux quand même de retrouver les lyonnais et l'ambiance des nuits.
 
@@ -16,13 +16,13 @@ Petit détour au Modern, avant de ne pas arriver à rentrer à la plateforme pou
 
 Toujours pas accroché aux subs, on est plusieurs à regretter les petites montées de la piscine du Rhône, le coucher de soleil, la bonne prog d'introduction pour la suite. Sans doute aussi le sentiment du _happy few_. Du coup on va tôt aux usines Brossette pour un [Connan Mockasin](https://soundcloud.com/connanmockasin) toujours aérien, onirique. Ils sont très justes et bien carrés avec l'effet chorus prépondérant de la guitare du chanteur Connan Hosford tout le long du concert. J'ai l'impression qu'ils ont progressé sur scéne depuis leur concert aux transmusicales il y a 2 ans. Le son de la scène 3 en extérieur (merci il ne pleut pas) est très bon.
 
-[![IMGP0242.jpg](images/8750806221_0c0125e87e.jpg)](http://www.flickr.com/photos/31719094@N04/8750806221/ "IMGP0242.jpg de bamthomas, sur Flickr")
+[![IMGP0242.jpg](/images/8750806221_0c0125e87e.jpg)](http://www.flickr.com/photos/31719094@N04/8750806221/ "IMGP0242.jpg de bamthomas, sur Flickr")
 
 Nous avons raté Mélody's Echo Chamber qui passait juste avant, mais nous l'avions vu [aux Transmusicales en décembre](http://liveweb.arte.tv/fr/video/Melody_s_Echo_Chamber_Trans_Musicales_Rennes/). Avec Dan Deacon qui suivait Connan Mockasin et sa musique psychédélique survitaminée à l'électronique bien crade-house, sorte d'Animal collective en plus déjanté, la scène 3 était résolument psyché.
 
 Pendant ce temps, sur la Scène 1 c'était le "future sound of UK". Avec [Disclosure](https://soundcloud.com/disclosuremusic) : de la vraie house de gay pride. Qu'on ne se méprenne pas avec ces temps de mariage pour tous c'est une qualité : festive, efféminée et mélodieuse. Bonne ambiance, très dense, impossible de retrouver les autres après un détour par les commodités. Suit Jamie Smith (aka [JamieXX](http://www.jamiexx.com/)), le producteur, beat machine du groupe XX. Il est dans la veine du groupe : downtempo et musical. Ses transitions sont inexistantes, le tout un peu décousu, mais il a une bonne selection de titres et il est au vinyl.
 
-[![IMGP0267.jpg](images/8750810451_da2470ef73.jpg)](http://www.flickr.com/photos/31719094@N04/8750810451/ "IMGP0267.jpg de bamthomas, sur Flickr")
+[![IMGP0267.jpg](/images/8750810451_da2470ef73.jpg)](http://www.flickr.com/photos/31719094@N04/8750810451/ "IMGP0267.jpg de bamthomas, sur Flickr")
 
 A la Scène 2, nous avons vu [Theo de Montgeri](http://www.myspace.com/theodemontgeri) : il était dans la thématique de la soiréee : faite de nappes sonores et de house. La sienne était deep et minimale. Et puis [Fritz Kalkbrenner](http://www.fritzkalkbrenner.de/). La classe berlinoise. La première grosse claque du festival. Il reprend le côté travaillé des sons de son frère, en étant moins minimaliste : il ajoute de la matière mélodieuse, avec sa voix par exemple. Il termine son set avec tout le public qui entonne "[Get A Life](http://www.youtube.com/watch?v=UCJZSI5Iuo4)".
 
@@ -50,11 +50,11 @@ et ça repart dans les nappes, on s'en va direction scène 2 et puis... 2e _twis
 
 Petit détour par la scène 3 extérieure, [Jack green](https://soundcloud.com/jacquesgreene), minimal, hypnotique à écouter, il est 2h, et le festival est plein :
 
-[![IMGP0295.jpg](images/8750814417_8ccdb8da91.jpg)](http://www.flickr.com/photos/31719094@N04/8750814417/ "IMGP0295.jpg de bamthomas, sur Flickr")
+[![IMGP0295.jpg](/images/8750814417_8ccdb8da91.jpg)](http://www.flickr.com/photos/31719094@N04/8750814417/ "IMGP0295.jpg de bamthomas, sur Flickr")
 
 Nous passons scène 2, la scène des invités du génial Daniel Snaith, le touche à tout de Caribou. On débute par Dj harvey : house puissante, avec un clin d'oeil à Laurent Garnier avec Crispy Bacon. C'est Daniel Snaith _himself_ (aka Daphni) qui continue. C'est assez semblable au style de son mix de l'année dernière au même endroit. Hyper éclectique avec de la soul dedans un peu foutraque et entrainant.
 
-[![IMGP0316.jpg](images/8750816407_878c6f9c3d.jpg)](http://www.flickr.com/photos/31719094@N04/8750816407/ "IMGP0316.jpg de bamthomas, sur Flickr")
+[![IMGP0316.jpg](/images/8750816407_878c6f9c3d.jpg)](http://www.flickr.com/photos/31719094@N04/8750816407/ "IMGP0316.jpg de bamthomas, sur Flickr")
 
 Enfin, après avoir écouté [Rone](https://soundcloud.com/rone-music) sur deezer l'après midi, j'avais envie de finir en souplesse. Ce sont effectivement des melopées sonores, la scène 1 est blindée malgré les 4hr46 et 5 jours de fête. C'est l'heure de la dernière clope. Son mix est propre. Ce sont ses morceaux. Toujours un peu le même schéma : sur le contre-temps en fin de mesure, on comprend assez vite. Pas grand chose de mieux que son album. C'est à écouter plus que voir en live : tout l'inverse de la Pantha du Prince. Malgré le manque d'énergie de son mix, je pense acheter son 2e album Tohu Bohu. Carole me précise que pour son 1er album il s'est inspiré du roman de fantasy "Les hordes de contrevent".
 

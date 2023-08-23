@@ -8,7 +8,7 @@ En cherchant mes notes dans [Note Everything](https://play.google.com/store/apps
 
 Je les pose en vrac, ou presque. Déjà personnellement 2 choses particulières qui contrastent fortement : - je suis descendu avec la famille : Victor, Louise et Nadège. Joie de partager un peu de festival, même si nous étions décalés. Nous sommes allés aux Mini Sonores, les enfants ont adoré. - les amis qui nous ont reçu étaient à l’hôpital, c'était triste. Donc ambiance un peu chelou, ça explique peut-être pourquoi je n'ai rien écrit, va savoir. L'année des boules... à facettes
 
-[![IMGP0220](images/27117733135_5318b2315c.jpg)](https://www.flickr.com/photos/31719094@N04/27117733135/in/album-72157666136238023/ "IMGP0220")
+[![IMGP0220](/images/27117733135_5318b2315c.jpg)](https://www.flickr.com/photos/31719094@N04/27117733135/in/album-72157666136238023/ "IMGP0220")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Mercredi
@@ -21,14 +21,14 @@ Enfin, "Tale of us" : "musique de pouf" selon Baptiste. Perso, je trouve ça plu
 
 ### Jeudi
 
-Pause, avec Michel et Carole, nous allons voir JC avec son groupe Pas Riche Hilton. Super soirée _blind test_ entre potes. [![IMGP0212](images/27023224922_faf4622368.jpg)](https://www.flickr.com/photos/31719094@N04/27023224922/in/album-72157666136238023/ "IMGP0212")
+Pause, avec Michel et Carole, nous allons voir JC avec son groupe Pas Riche Hilton. Super soirée _blind test_ entre potes. [![IMGP0212](/images/27023224922_faf4622368.jpg)](https://www.flickr.com/photos/31719094@N04/27023224922/in/album-72157666136238023/ "IMGP0212")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Vendredi
 
 17h43 : du bon son ! Dans la petite salle. Un barbu avec une fille qui joue du clavier et chante. Un peu du [XX](http://www.thexx.info/) en énervé. Avec des boucles qui semblent devenir incontrôlables, décalées. C'est [Syracuse](https://soundcloud.com/syracuse-886138881) me dit mon voisin. Génial.
 
-[![IMGP0222](images/27049213391_09f3008c55.jpg)](https://www.flickr.com/photos/31719094@N04/27049213391/in/album-72157666136238023/ "IMGP0222")
+[![IMGP0222](/images/27049213391_09f3008c55.jpg)](https://www.flickr.com/photos/31719094@N04/27049213391/in/album-72157666136238023/ "IMGP0222")
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On retrouve les potes de Grenoble, Clément et Laurent pour [Dj deep](http://www.djdeep.com/) : excellent comme d'hab un set un peu froid. Suit Moodyman dans le même hall. Un début un peu décousu mais hyper efficace. Étonnant ! Funk peu probable mais qui tient puis très électro puis rap puis house.

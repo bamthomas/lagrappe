@@ -14,10 +14,10 @@ La ville en elle même comprend 2,3M d'habitants. Elle est la réunion (en 1873)
 
 La ville possède de nombreux bains, et nous vous conseillons vivement d'aller y faire un tour si vous avez l'occasion de vous promener là bas, pour récupérer par exemple une journée de marche sur le bitume un peu irrégulier de la ville. Nous avons fait celui de [Szecheny](http://www.spasbudapest.com/furdo.php?idx=14) en fin de journée ; il devait faire une dizaine de degrés dehors, et nous étions dans de l'eau à 38 degrés dans un décor magique au coucher du soleil. Il y a des courants, des jets, bref de quoi s'amuser et ne plus vouloir sortir du tout.
 
-![](images/img_2230.jpg)
+![](/images/img_2230.jpg)
 
 Petite anecdote amusante, le parlement (construit entre 1880 et 1902) fait 96m de hauteur probablement en référence à la date de fondation de la nation en 896 par les 7 tribus Magyar, et aucun bâtiment ne peut le dépasser. Ce qui explique que la ville reste assez homogène en hauteur de bâtiment.
 
-![](images/img_2261.jpg)
+![](/images/img_2261.jpg)
 
 Nous avons également trouvé que la ville avait quelques ressemblances avec Lyon : sur la colline de la citadelle de Buda on a un peu l'impression d'être sur Fourvière ou St Just.

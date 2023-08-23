@@ -6,7 +6,7 @@ date: "2008-07-30"
 
 Enfin ! Mais déjà un mois qu'il est là. Enfin parce que les premières semaines ne sont pas faciles pour les parents. Mais déjà parce que finalement le temps est allé beaucoup plus vite qu'on ne l'aurait supposé.
 
-![Victor](images/IMGP0205.JPG)
+![Victor](/images/IMGP0205.JPG)
 
 Une citation d'Albert Einstine illustre un chapitre sur la gestion du temps de l'excellent livre de Gerald M. Weinberg "Becoming a Technical Leader". Elle a une raisonnance très à propos :
 

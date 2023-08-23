@@ -10,7 +10,7 @@ Justement, en se précipitant pour voir la fin de Les Gordon, on se retrouve dev
 
 Après je m'attendais à une grosse teuf disco, des énormes boules à facettes promettent un éclairage assorti ; mais c'est un Hall 9 froid, vidé du public de Stromae qui accueille Horse Meat Disco. Un DJ, alors que j'avais compris que c'était un collectif. Très deep et pas très funky. Du coup la soirée va finalement être un tourbillon entre Hall 9 et 4. On s'y réchauffe dans le Hall 4 devant [Meridian Brother](http://meridianbrothers.com/).
 
-[![IMGP4847.jpg](images/11253944304_4241e48a72_z.jpg)](http://www.flickr.com/photos/31719094@N04/11253944304/ "IMGP4847.jpg de bamthomas, sur Flickr")
+[![IMGP4847.jpg](/images/11253944304_4241e48a72_z.jpg)](http://www.flickr.com/photos/31719094@N04/11253944304/ "IMGP4847.jpg de bamthomas, sur Flickr")
 
 De la musique sud Américaine psychédélique, kitch et délirante. La musicienne de Eblis Álvarez qui fait percu/sax/clavier est bien présente sur le devant de la scène. Les Inrocks [criaient au génie](http://www.lesinrocks.com/musique/critique-album/meridian-brothers-attention-genie/) c'est peut-être beaucoup, mais la description est parfaitement adapté à leur live :
 
@@ -18,13 +18,13 @@ De la musique sud Américaine psychédélique, kitch et délirante. La musicienn
 
 Retour Hall 9 pour Escort : le collectif New Yorkais rempli mieux la scène du grand hall toujours froid et éparse. On vire plus vers du disco/funk oscillant entre un Sister Fledge ("[we are family](http://www.youtube.com/watch?v=eBpYgpF1bqQ)") revival disco et des morceaux plus house. Bonne musique, mais même la belle Adeline Michel n'arrive pas à remplir la salle.
 
-[![IMGP4853.jpg](images/11253942776_b4cfa31e2e_z.jpg)](http://www.flickr.com/photos/31719094@N04/11253942776/ "IMGP4853.jpg de bamthomas, sur Flickr")
+[![IMGP4853.jpg](/images/11253942776_b4cfa31e2e_z.jpg)](http://www.flickr.com/photos/31719094@N04/11253942776/ "IMGP4853.jpg de bamthomas, sur Flickr")
 
 La green room est pleine.
 
 On va écouter le zèbre "DJ prosper" au hall 4 : mix très varie entre Amérique du sud et gros binz électro dansant. Plus d'ambiance ici alors qu'il assure l'intérim entre Meridian Brothers et les prochains Melt Yourself Down. Décomplexé, il s'amuse, c'est communicatif.
 
-[![IMGP4866.jpg](images/11253945016_bc3ea99ced_z.jpg)](http://www.flickr.com/photos/31719094@N04/11253945016/ "IMGP4866.jpg de bamthomas, sur Flickr")
+[![IMGP4866.jpg](/images/11253945016_bc3ea99ced_z.jpg)](http://www.flickr.com/photos/31719094@N04/11253945016/ "IMGP4866.jpg de bamthomas, sur Flickr")
 
 On retiendra aussi Crystal Ark : chanteuses black superbe aux voix enchanteresses sur électo crade avec percu et orgue. Très house hypnotique par moment.
 
