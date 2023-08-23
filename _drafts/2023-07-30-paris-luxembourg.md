@@ -15,7 +15,7 @@ Arrivé on va direct  à l'hôtel pour  poser les affaires, et on part à la dé
 
 Tout est gratuit : transports, toilettes publiques, le bonheur. On est allé au  rocher du bock ou se trouvent les restes du château de Sigefroid de Luxembourg (963).
 
-La ville est toute vallonnée (collineuse comme dit Victor) enserrée dans la nature. À l'inverse des villes modernes ou des îlots de nature sont aménagés pour la promenade , ce sont des ilots d'urbanité construits pour vivre dans la nature.
+La ville est toute vallonnée (collineuse comme dit Victor) enserrée dans la nature. À l'inverse des villes modernes ou des îlots de nature sont aménagés pour la promenade , ce sont des îlots d'urbanité construits pour vivre dans la nature.
 
 On aperçois également depuis le Bock le quartier d'affaire desservi par le "pont rouge" (de la grande duchesse Charlotte ) juste au dessus de la maison de Robert Schumann.
 
