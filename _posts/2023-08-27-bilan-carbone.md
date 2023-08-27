@@ -29,7 +29,7 @@ Voici la synthèse :
 | Hirshals - Aalborg                | train diesel | 67  | 8             |
 | Aalborg - Fredericia              | train diesel | 165 | 20            |
 | Fredericia - Hambourg             | train diesel | 232 | 28            |
-| Hambourg – Paris                  | train élec.  | 575 | 6,3           |
+| Hambourg – Paris (via Francfort)  | train élec.  | 575 | 6,3           |
 | Total                             |              | 4502| 236,3         |
 
 Résultat, nous avons parcouru **4502km** et produit **236kgEqCO<msub>2</msub>** par personne pour l'ensemble des déplacements. Les impacts carbone qui suivent sont toujours par personne.
