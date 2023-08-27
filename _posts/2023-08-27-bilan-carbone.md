@@ -38,7 +38,7 @@ Quelques notes sur ces données.
 
 Premièrement, elles ne comptent que le scope 2, la fabrication des équipements (trains, bateaux, bus), leur acheminement n'est pas pris en compte.
 
-Pour la méthodologie, nous avons utilisé :
+Niveau méthodologique nous avons utilisé :
 
 - pour le train électrique la distance parcourue en km, multipliée par [le nombre de kW/h par passager par km](https://fr.wikipedia.org/wiki/Efficacit%C3%A9_%C3%A9nerg%C3%A9tique_dans_les_transports#Transport_ferroviaire), multipliée par l'impact carbone de chaque kWh. Pour cette dernière données nous avons pris les données sur [electricitymaps.com](https://app.electricitymaps.com) ;
 - pour le bateau nous avons utilisé [futur.eco](https://futur.eco/) ;
@@ -52,6 +52,6 @@ Enfin on peut même pousser plus loin. Nous avons observé que le mix énergéti
 
 Et si nous avions pris l'avion ? Alors dans ce scénario on n'aurait pas pu aller partout où nous sommes allés (du moins par le seul moyen aérien). Mais en supposant qu'on redescende directement de Bergen à Paris, alors l'impact aurait été de **882kgEqCO<msub>2</msub>** (source [furtur.eco](https://futur.eco/))
 
-Vous pouvez retrouver toutes les hypothèses et jouer avec [ici](https://github.com/bamthomas/lagrappe/blob/master/files/interrail-2023.ods).
+Vous pouvez retrouver tous ces scénarii et jouer avec [ici](https://github.com/bamthomas/lagrappe/blob/master/files/interrail-2023.ods).
 
 Si vous avez des remarques, corrections, interrogations n'hésitez pas à [me contacter](https://blog.iroco.co/author/bruno/).
