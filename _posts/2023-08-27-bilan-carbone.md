@@ -43,7 +43,7 @@ Premièrement des repères avec des vols internationaux (source [aviation-civile
 - Paris - Dubai A/R : 968 kgEqCO2
 - Paris - Hambourg : 222 kgEqCO2 (donc notre voyage entier équivaut à peu près à un A/R Paris-Hambourg)
 
-Les données ne comptent que le [scope 1 et 2](https://www.territoires-climat.ademe.fr/ressource/42-14), la fabrication des équipements (trains, bateaux, bus), leur acheminement, leur recyclage (scope 3) ne sont pas pris en compte.
+Les données ne comptent que les [scopes 1 et 2](https://www.territoires-climat.ademe.fr/ressource/42-14), la fabrication des équipements (trains, bateaux, bus), leur acheminement, leur recyclage (scope 3) ne sont pas pris en compte.
 
 Niveau méthodologique nous avons utilisé :
 
