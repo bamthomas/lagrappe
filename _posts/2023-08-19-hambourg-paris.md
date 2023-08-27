@@ -8,7 +8,17 @@ tags:
 - inte-rail
 ---
 
-Un ICE entre Hambourg et Francfort, on déjeune dans un bon restaurant, il commence à faire chaud, on approche doucement du dôme de chaleur qui est présent sur la France. Et puis en gare de Francfort, on retrouve un TGV.
+![La ville business](/images/interrail2023/IMGP4701.jpg)
+
+Un ICE entre Hambourg et Francfort, on déjeune dans un bon restaurant, il commence à faire chaud, on approche doucement du dôme de chaleur qui est présent sur la France. Francfort est une ville économique dynamique, elle a une bourse, c'est la 4e place financière d'Europe et la ville la plus riche d'Allemagne avec un PIB par habitant de 85300€.
+
+Le centre est plus traditionnel avec des maisons à colombage colorées.
+
+![Le centre de Francfort](/images/interrail2023/IMGP4706.jpg)
+
+C'est aussi une ville très culturelle, elle a par exemple hébergée Goethe, et possède beaucoup de musées et théâtres.
+
+Et puis en gare de Francfort, on retrouve un TGV.
 
 Hbg Fkfrt : 395
 

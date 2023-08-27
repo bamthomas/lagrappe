@@ -8,8 +8,9 @@ tags:
 - inte-rail
 ---
 
-En bateau avec fjordline. Magnifiques panoramas des îles et des flords Norvégiens.
+En bateau avec fjordline. Magnifiques panoramas des îles et des fjords Norvégiens. On cotoie aussi des installations prétrolières, car la Norvège exploite beaucoup d'hydrocarbures notamment en mer.
 
+![Bateau de transport d'hydrocarbures](/images/interrail2023/IMGP4592.jpg)
 
 Pour les émissions il est  indiqué sur le site de [fjordline](https://www.fjordline.com/en/p/about-fjord-line/eco-friendly-natural-gas) qu'ils utilisent du "biogaz" et que cela réduit les émissions de gaz à effet de  serre de 23%.
 
@@ -23,6 +24,8 @@ https://www.rts.ch/info/economie/14077759-pas-100-ecolo-le-bateau-de-croisiere-a
 # À Stavanger
 
 Petite Ville du sud pleine de bars et restaurants hauts en couleur dans des petites rues pavées. Très festive quand nous y étions car c'était la rentrée universitaire et la ville fait beaucoup d'efforts pour que les étudiants trouvent leur place.
+
+![A Stavanger](/images/interrail2023/IMGP4605.jpg)
 
 Intéressant car c'est une ville qui s'est développée au 19e siècle autour de l'industrie du poisson séché, de la fabrication de bateau et l'ingénierie. Le pétrole a aussi bénéficié à la région dans les villes de Sandnes, Sola, Randaberg.
 

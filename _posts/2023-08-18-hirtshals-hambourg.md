@@ -8,7 +8,15 @@ tags:
 - inte-rail
 ---
 
+Hirshals est une jolie petite station balnéaire, on dort dans des Hüte.
+
+![Hirshals](/images/interrail2023/IMGP4677.jpg)
+
 # Hirshals - Aalborg
+
+Aalborg est un port au cente du Danemark qui servait de base de départ des expéditions viking. Une ville très culturelle, quand nous y étions un festival de musique se préparait, il y avait des scènes dans toute la ville.
+
+![Aalborg](/images/interrail2023/IMGP4690.jpg)
 
 En train diesel.
 

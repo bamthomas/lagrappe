@@ -10,6 +10,8 @@ tags:
 
 Suite à la tempète Hans, pas moyen de prendre de train jusqu'à Finse : il y a de l'eau sur les voies. Comme il n'est possible d'aller à Finse qu'en train, à pieds ou à vélo, c'est trop compliqué d'y aller, on a du faire une croix sur notre halte montagnarde. Grosse déception car c'était un peu le clou du tour, une des lignes de train des plus belles en Europe si ce n'est plus. Et puis on devait rester une nuit dans un joli hôtel avec les repas. Ils ne voudront rien savoir, on n'a même pas pu récupérer ce qu'on avait déjà payé.
 
+![entre Oslo et Bergen](/images/interrail2023/IMGP4443.jpg)
+
 On s'en fait une raison, ça fait partie du voyage. Du coup on arrive à étendre d'une nuit notre réservation à Bergen, et on part en bus : on passe par
 
 - Bjørgo
