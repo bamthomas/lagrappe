@@ -52,6 +52,6 @@ Enfin on peut même pousser plus loin. Nous avons observé que le mix énergéti
 
 Et si nous avions pris l'avion ? Alors dans ce scénario on n'aurait pas pu aller partout où nous sommes allés (du moins par le seul moyen aérien). Mais en supposant qu'on redescende directement de Bergen à Paris, alors l'impact aurait été de **882kgEqCO<msub>2</msub>** (source [furtur.eco](https://futur.eco/))
 
-Vous pouvez retrouver toutes les hypothèses et jouer avec [ici](https://github.com/bamthomas/lagrappe/files/interrail-2023.ods).
+Vous pouvez retrouver toutes les hypothèses et jouer avec [ici](https://github.com/bamthomas/lagrappe/blob/master/files/interrail-2023.ods).
 
 Si vous avez des remarques, corrections, interrogations n'hésitez pas à [me contacter](https://blog.iroco.co/author/bruno/).
