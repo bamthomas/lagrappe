@@ -14,23 +14,23 @@ Nous avons noté tout au long de notre périple les moyens de transports que nou
 
 Voici la synthèse :
 
-| trajet                            | type         | km  | kgEqCO2/pers. | scénario |
-| --------------------------------- | ------------ | --- | ------------- | -------- |
-| Paris – Luxembourg                | train élec.  | 287 | 0,8           | réel     |
-| Luxembourg - Koblenz – Hambourg   | train élec.  | 526 | 9,8           | réel     |
-| Hambourg - Flensburg - Copenhague | train élec.  | 361 | 6,3           | réel     |
-| Copenhague - Malmö - Stockholm    | train élec.  | 522 | 0,8           | réel     |
-| Stockholm - Oslo                  | train élec.  | 523 | 1,1           | réel     |
-| Stockholm - Oslo                  | bus          | 171 | 18,8          | réel     |
-| Oslo - Bergen                     | bus          | 551 | 60,6          | réel     |
-| Bergen – Stavanger                | bateau       | 160 | 19,2          | réel     |
-| Stavanger - Kristiansand          | train élec.  | 230 | 0,6           | réel     |
-| Kristiansand - Hirtshals          | bateau       | 132 | 56            | réel     |
-| Hirshals - Aalborg                | train diesel | 67  | 8             | réel     |
-| Aalborg - Fredericia              | train diesel | 165 | 20            | réel     |
-| Fredericia - Hambourg             | train diesel | 232 | 28            | réel     |
-| Hambourg – Paris                  | train élec.  | 575 | 6,3           | réel     |
-| Total                             |              | 4502| 236,3         | réel     |
+| trajet                            | type         | km  | kgEqCO2/pers. |
+| --------------------------------- | ------------ | --- | ------------- |
+| Paris – Luxembourg                | train élec.  | 287 | 0,8           |
+| Luxembourg - Koblenz – Hambourg   | train élec.  | 526 | 9,8           |
+| Hambourg - Flensburg - Copenhague | train élec.  | 361 | 6,3           |
+| Copenhague - Malmö - Stockholm    | train élec.  | 522 | 0,8           |
+| Stockholm - Oslo                  | train élec.  | 523 | 1,1           |
+| Stockholm - Oslo                  | bus          | 171 | 18,8          |
+| Oslo - Bergen                     | bus          | 551 | 60,6          |
+| Bergen – Stavanger                | bateau       | 160 | 19,2          |
+| Stavanger - Kristiansand          | train élec.  | 230 | 0,6           |
+| Kristiansand - Hirtshals          | bateau       | 132 | 56            |
+| Hirshals - Aalborg                | train diesel | 67  | 8             |
+| Aalborg - Fredericia              | train diesel | 165 | 20            |
+| Fredericia - Hambourg             | train diesel | 232 | 28            |
+| Hambourg – Paris                  | train élec.  | 575 | 6,3           |
+| Total                             |              | 4502| 236,3         |
 
 Résultat, nous avons parcouru **4502km** et produit **236kgEqCO<msub>2</msub>** par personne pour l'ensemble des déplacements. Les impacts carbone qui suivent sont toujours par personne.
 
