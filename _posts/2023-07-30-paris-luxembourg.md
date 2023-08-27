@@ -26,7 +26,7 @@ Luxembourg fait penser à une ville du 21e : taille humaine et en mixité avec l
 Pendant ce voyage je vais essayer de calculer au mieux l'impact carbone de nos déplacements. Pour le moment c'est électrique alors je vais prendre le nombre de kWh par km pour un voyageur en train et multiplier par l'empreinte carbone du kWh dans chaque pays où on ira, et par le nombre de km parcourus.
 
 Pour le poids en carbone du kWh on utilisera https://app.electricitymaps.com
-Nombre de kWh par km en train électrique : 0,11
+Nombre de kWh par km par voyageur en train électrique : 0,11 (source [Wikipedia](https://fr.wikipedia.org/wiki/Efficacit%C3%A9_%C3%A9nerg%C3%A9tique_dans_les_transports#Transport_ferroviaire))
 25g/kwh pour la France lors de notre voyage.
 134g/kWh pour le Luxembourg
 
