@@ -50,6 +50,7 @@ Niveau méthodologique nous avons utilisé :
 - pour le train électrique la distance parcourue en km, multipliée par [le nombre de kW/h par passager par km](https://fr.wikipedia.org/wiki/Efficacit%C3%A9_%C3%A9nerg%C3%A9tique_dans_les_transports#Transport_ferroviaire), multipliée par l'impact carbone de chaque kWh. Pour cette dernière nous avons pris les données sur [electricitymaps.com](https://app.electricitymaps.com) ;
 - pour le bateau nous avons utilisé [futur.eco](https://futur.eco/) ;
 - pour le bus nous avons utilisé les données de [impactco2.fr](https://impactco2.fr/transport/busthermique)
+- pour les trains diesel nous avons utilisé [ce site](http://oliviercarles.free.fr/DOCU/FACTEUR4/LesTERDiesel/LesTERDiesel.php) (cf [les réflexions](/hirtshals-hambourg/) sur ce mode de calcul)
 
 Nous avons subi [la tempête "Hans"](https://en.wikipedia.org/wiki/2022%E2%80%9323_European_windstorm_season) qui nous a obligé à prendre le bus pour arriver à Oslo. Hans nous a également privé de notre trajet Oslo-Finse et Finse-Bergen (un des gros intérêts de ce voyage). Nous avons du prendre un bus Oslo-Bergen. Si nous n'avions pas eu cette tempête, nous aurions eu un impact de **158kgEqCO<msub>2</msub>** c'est à dire que Hans nous a coûté 78kgEqCO<msub>2</msub> soit **33% de l'impact global**. C'est aussi ce que nous dit le GIEC : le dérèglement climatique va empirer l'impact environnemental de l'activité humaine (cf la climatisation, etc.).
 
@@ -57,7 +58,7 @@ Par ailleurs, les trains diesel nous ont aussi coûté beaucoup en CO<msub>2</ms
 
 Enfin on peut même pousser plus loin. Nous avons observé que le mix énergétique notamment en Allemagne n'était pas bon car il y a pas mal de production d'électricité avec des centrales à charbon. Le nombre de gramme de CO<msub>2</msub> par kWh produit allait de 25g (pour la France et la Norvège) à presque 300g pour l'Allemagne, c'est-à-dire 12 fois plus ! Si on avait eu un mix énergétique bas carbone (sans Hans, avec éléctrification des lignes danoises), alors l'impact du voyage aurait été de **85kgEqCO<msub>2</msub>**.
 
-Et si nous avions pris l'avion ? Alors dans ce scénario on n'aurait pas pu avoir le même itinéraire (du moins par le seul moyen aérien). Mais en supposant qu'on redescende directement de Bergen à Paris, alors l'impact aurait été de **882kgEqCO<msub>2</msub>** (source [furtur.eco](https://futur.eco/))
+Et si nous avions pris l'avion ? Alors dans ce scénario on n'aurait pas pu avoir le même itinéraire (du moins par le seul moyen aérien). Mais en supposant qu'on redescende directement de Bergen à Paris, alors l'impact aurait été de **882kgEqCO<msub>2</msub>** (source [futur.eco](https://futur.eco/))
 
 Vous pouvez retrouver tous ces scénarii et jouer avec [ici](https://github.com/bamthomas/lagrappe/blob/master/files/interrail-2023.ods).
 
