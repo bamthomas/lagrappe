@@ -38,9 +38,11 @@ Résultat, nous avons parcouru **4502km** et produit **236kgEqCO<msub>2</msub>**
 
 Quelques notes sur ces données.
 
-Premièrement des repères avec des vols internationaux (source [aviation-civile](https://eco-calculateur.dta.aviation-civile.gouv.fr/)):
+Premièrement des repères (source [aviation-civile](https://eco-calculateur.dta.aviation-civile.gouv.fr/)):
 - Paris - New York A/R : 1 tonne EqCO2
-- Paris - Hambourg : 222 kgEqCO2 (donc notre voyage entier équivaut à peu près à un A/R Paris-Hambourg)
+- Paris - Hambourg en avion : 222 kgEqCO2 (donc notre voyage entier équivaut à peu près à un A/R Paris-Hambourg)
+- empreinte moyenne d'un français ~10 tonnes EqCO2/an (cf [nosgestesclimat.fr](https://nosgestesclimat.fr/) si vous voulez voir la vôtre)
+- objectif de la COP21 de Paris : 2 tonnes EqCO2/an par personne
 
 Les données ne comptent que les [scopes 1 et 2](https://www.territoires-climat.ademe.fr/ressource/42-14), la fabrication des équipements (trains, bateaux, bus), leur acheminement, leur recyclage (scope 3) ne sont pas pris en compte.
 
