@@ -40,7 +40,6 @@ Quelques notes sur ces données.
 
 Premièrement des repères avec des vols internationaux (source [aviation-civile](https://eco-calculateur.dta.aviation-civile.gouv.fr/)):
 - Paris - New York A/R : 1 tonne EqCO2
-- Paris - Dubai A/R : 968 kgEqCO2
 - Paris - Hambourg : 222 kgEqCO2 (donc notre voyage entier équivaut à peu près à un A/R Paris-Hambourg)
 
 Les données ne comptent que les [scopes 1 et 2](https://www.territoires-climat.ademe.fr/ressource/42-14), la fabrication des équipements (trains, bateaux, bus), leur acheminement, leur recyclage (scope 3) ne sont pas pris en compte.
