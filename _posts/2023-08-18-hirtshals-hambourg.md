@@ -24,7 +24,7 @@ Ces derniers déplacements se font en train diesel. Aïe, nous n'avons pas encor
 * avec [engineeringtoolbox](https://www.engineeringtoolbox.com/CO2-emissions-transport-car-plane-train-bus-d_2000.html) et un train rempli à 20% : 11,2kg ce qui fait beaucoup si on compare à une voiture qui serait à 14kg ([selon l'ADEME](https://impactco2.fr/transport/voiturethermique))
 * [ce site](http://oliviercarles.free.fr/DOCU/FACTEUR4/LesTERDiesel/LesTERDiesel.php) indique 122g/voy/km ce qui ferait 8kgEqCO2
 
-C'est une valeur intermédiaire, probablement conservatrice car il s'agit de TER diesel français, or les trains que nous prenons sont récents, et utilisent probablement des moteurs récents plus efficaces que ceux des TER. Mais nous garderons cette hypothèse pour la suite.
+C'est une valeur intermédiaire, probablement conservatrice car il s'agit de TER diesel français, or les trains que nous prenons sont récents, et utilisent des moteurs récents plus efficaces que ceux des TER. Mais nous garderons cette hypothèse pour la suite.
 
 # Aalborg - Fredericia
 
