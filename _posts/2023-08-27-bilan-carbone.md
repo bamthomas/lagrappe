@@ -48,7 +48,7 @@ Les données ne comptent que les [scopes 1 et 2](https://www.territoires-climat.
 
 Niveau méthodologique nous avons utilisé :
 
-- pour le train électrique la distance parcourue en km, multipliée par [le nombre de kWh par passager par km](https://fr.wikipedia.org/wiki/Efficacit%C3%A9_%C3%A9nerg%C3%A9tique_dans_les_transports#Transport_ferroviaire), multipliée par l'impact carbone de chaque kWh. Pour cette dernière nous avons pris les données sur [electricitymaps.com](https://app.electricitymaps.com) ;
+- pour le train électrique la distance parcourue en km, multipliée par [la quantité d'énergie (en kWh) par passager par km](https://fr.wikipedia.org/wiki/Efficacit%C3%A9_%C3%A9nerg%C3%A9tique_dans_les_transports#Transport_ferroviaire), multipliée par l'impact carbone de chaque kWh. Pour cette dernière nous avons pris les données sur [electricitymaps.com](https://app.electricitymaps.com) ;
 - pour le bateau : [futur.eco](https://futur.eco/) ;
 - pour le bus, les données de [impactco2.fr](https://impactco2.fr/transport/busthermique)
 - pour les trains diesel, [ce site](http://oliviercarles.free.fr/DOCU/FACTEUR4/LesTERDiesel/LesTERDiesel.php) (cf [les réflexions](/hirtshals-hambourg/) sur ce mode de calcul)
